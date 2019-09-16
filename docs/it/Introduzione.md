@@ -6,20 +6,11 @@ lang: it-IT
 
 ## Il Fegato
 
-Fegato
 Il fegato è la più grande ghiandola del corpo umano è svolge un ruolo fondamentale nella digestione. Svolge molte funzioni, tra cui la depurazione delle sostanze tossiche e nella difesa dell'organismo. La salute del fegato si ripercuote su tutto l'organismo.
 
 ## L’epatite
 
-L’epatite è un'infiammazione del fegato. Può essere causato da:
-
-- infezioni
-  - _virali_ (epatite A, B, C, D, E, febbre gialla, mononucleosi, ecc.)
-  - _batteriche_ (tubercolosi, brucellosi, tifo addominale, ecc.)
-  - _parassitarie_ (leptospirosi, ecc.)
-- intossicazioni alimentari e farmaci
-  - da alcol, vegetali, funghi ecc.
-- malattie autoimmuni
+L’epatite è un'infiammazione del fegato. 
 
 ### Sintomi
 
@@ -30,6 +21,18 @@ Sintomi iniziali dell'epatite acuta
 - nausea, vomito
 - dolore addominale
 - colore giallastro degli occhi e della pelle (ittero)
+
+### Cause
+Può essere causata da:
+
+- infezioni
+  - _virali_ (epatite A, B, C, D, E, febbre gialla, mononucleosi, ecc.)
+  - _batteriche_ (tubercolosi, brucellosi, tifo addominale, ecc.)
+  - _parassitarie_ (leptospirosi, ecc.)
+- intossicazioni alimentari e farmaci
+  - da alcol, vegetali, funghi ecc.
+- malattie autoimmuni
+
 
 ## Le epatiti virali
 
