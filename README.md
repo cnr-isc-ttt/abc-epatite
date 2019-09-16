@@ -2,6 +2,6 @@
 
 ABC Epatite
 
-** status. Alpha **
+**status. Alpha**
 
 BOZZA

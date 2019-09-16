@@ -30,7 +30,7 @@ Sintomi iniziali dell'epatite acuta
 - dolore addominale
 - colore giallastro degli occhi e della pelle (ittero)
 
-![Fegato](/images/liver-2a.jpg)
+![Fegato](../img/liver-3.jpg)
 
 ## Le epatiti virali
 
