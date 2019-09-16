@@ -2,6 +2,7 @@
 title: Introduzione
 lang: it-IT
 ---
+![Fegato](../img/liver-3.jpg)
 
 ## Il Fegato
 
@@ -29,8 +30,6 @@ Sintomi iniziali dell'epatite acuta
 - nausea, vomito
 - dolore addominale
 - colore giallastro degli occhi e della pelle (ittero)
-
-![Fegato](../img/liver-3.jpg)
 
 ## Le epatiti virali
 
