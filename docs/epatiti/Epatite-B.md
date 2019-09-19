@@ -1,11 +1,6 @@
----
-title: Epatite B
-lang: it-IT
----
+# Epatite B
 
-## Epatite B
-
-### Cosa è? <Badge text="Risposta in 100 parole" type="tip" />
+## Cosa è <Badge text="Risposta in 100 parole" type="tip" />
 
 L'epatite B è una infezione del fegato causata da un virus, che rappresenta un grave problema per la sanità mondiale. Si presenta in forma acuta e può diventare cronica.
 
@@ -20,7 +15,7 @@ Esiste un vaccino efficace per prevenirla. La prevenzione è fondamentale per du
 
 Inoltre il riconoscimento delle donne in età fertile con epatite cronica B è molto importante per prevenire l’infezione neonatale che è associata con altissime proporzioni di cronicizzazione.
 
-### Come la prendo?
+## Come la prendo
 
 Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene a contatto con liquidi biologici di soggetti infetti, come il sangue, le secrezioni delle mucose genitali e lo sperma. Il contagio può avvenire anche dalla madre al neonato al durante la gravidanza, al momento del parto o durante l’allattamento se non vengono presi specifici provvedimenti.
 
@@ -28,7 +23,7 @@ Il contatto e la trasmissione del virus avvengono attraverso siringhe, aghi, app
 
 Il virus sopravvive anche all’esterno del corpo, sulle superfici ambientali, per almeno 7 giorni. Si può quindi essere contagiati tramite oggetti contaminati a propria insaputa (spazzolini da denti, rasoi, forbici, pettini) in seguito a piccole lesioni della cute o delle mucose.
 
-#### Soggetti a maggior rischio:
+### Soggetti a maggior rischio
 
 ::: danger Rischio maggiore per tutti coloro che non sono stati vaccinati.
 
@@ -40,7 +35,7 @@ Il virus sopravvive anche all’esterno del corpo, sulle superfici ambientali, p
 - viaggiatori non vaccinati contro l’epatite B
   :::
 
-### Come si manifesta? Cosa rischio?
+## Come si manifesta, cosa rischio
 
 Il periodo di incubazione del virus dell'epatite B è in media 75 giorni, ma può variare entro ampi limiti che vanno dai 30 ai 180 giorni.
 
@@ -52,7 +47,7 @@ La proporzione di cronicizzazione varia con il variare dell’età del soggetto.
 
 I soggetti che dopo l’infezione producono anticorpi specifici contro l’antigene “S” del virus (anticorpi anti-HBsAg) sono capaci di arrestare completamente la replicazione del virus e non sono più infetti. Tuttavia se questi soggetti perdono la loro immunità a seguito di terapie immunosoppressive come quelle contro il cancro o come quelle contro le malattie auto immuni, il virus dell’epatite B può nuovamente ricomparire e produrre danni gravi. Pertanto l’unica vera garanzia per prevenire tutte le complicanze del virus dell’epatite B è quella di vaccinarsi.
 
-### Come si riconosce e come si cura?
+## Come si riconosce e come si cura
 
 Il miglior modo per combattere l’epatite B è la vaccinazione. Se credi di non essere stato vaccinato e per motivi legati al tuo lavoro o al tuo stile di vita ti senti a rischio chiedi di essere vaccinato al tuo medico. Benché il miglior modo per prevenire l’infezione sia la vaccinazione prima di esporsi al rischio di contagio, il vaccino può essere ancora efficace anche dopo 24 h dopo essere stati esposti al virus.
 
@@ -62,7 +57,7 @@ La diagnosi di epatite B si effettua principalmente tramite esami del sangue. Le
 
 L’epatite B è una malattia complessa e deve essere trattata da medici specialisti sia nelle sue presentazione di epatite acuta che nelle sue forme di cronicizzazione. Esistono farmaci specifici per il trattamento dell’epatite B. La necessità di iniziare una terapia sia in fase acuta che cronica deve essere deciso da un medico specialista in malattie infettive o in gastroenterologia (epatologo).
 
-### Come si previene?
+## Come si previene
 
 ::: tip La vaccinazione
 Per prevenire l’epatite B e le sue conseguenze (malattie al fegato correlate) esiste una vaccinazione sicura ed efficace, con una copertura del 95%.
@@ -73,6 +68,6 @@ Nei casi di alto rischio di trasmissione dalla madre al neonato, la prima dose d
 
 Da quando è stato introdotto il vaccino in Italia ad oggi, i nuovi casi di epatite B si sono ridotti dell'80% (nei gruppi di età destinatari dell’intervento vaccinale, 0-24 anni).
 
-### Quanto è diffusa?
+## Quanto è diffusa
 
 L’epatite B è diffusa in tutto il mondo, causando ogni anno migliaia di morti (soprattutto a causa delle complicazioni, incluse cirrosi e cancro). Secondo i dati dell’OMS, circa 257 milioni di persone nel mondo sono affette da epatite B cronica. Cfr. I numeri dell’epatite B.

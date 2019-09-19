@@ -1,11 +1,6 @@
----
-title: Epatite A
-lang: it-IT
----
+# Epatite A
 
-## Epatite A 
-
-### Cosa è? <Badge text="Risposta in 100 parole" type="tip"/>
+## Cosa è <Badge text="Risposta in 100 parole" type="tip"/>
 
 L'epatite A è un’infezione del fegato, causata da un virus, che può causare conseguenze da lievi (ad es. nausea e vomito) a gravi (rare). Si distingue dalle epatiti B e C per le modalità di trasmissione, perché non diventa mai cronica ed è raramente fatale.
 
@@ -17,7 +12,7 @@ Il virus dell'epatite A può essere trasmesso attraverso cibi contaminati. Si di
 Il virus dell’epatite A è resistente al congelamento: solo la cottura elimina o inattiva il virus dai cibi contaminati.
 :::
 
-### Come la prendo?
+## Come la prendo
 
 L’epatite A si trasmette generalmente per via oro-fecale, cioè quando una persona ingerisce acqua o cibo contaminati dalle feci di persone infette.
 
@@ -25,7 +20,7 @@ Il virus si trasmette anche attraverso uno stretto contatto con una persona infe
 
 Il virus può essere presente nelle feci già 2 settimane prima che si presentino i sintomi dell’infezione. Alcuni persone (soprattutto i bambini) manifestano solo sintomi molto lievi (o addirittura nessun sintomo) ma sono comunque contagiose perché il virus viene eliminato lentamente.
 
-#### Fattori di rischio più comuni:
+### Fattori di rischio più comuni
 
 ::: warning Alimenti <Badge text=" più a rischio" type="error" />
 prodotti a base di:
@@ -58,7 +53,7 @@ prodotti a base di:
 uso di droghe ---- QUALI TIPI ???
 :::
 
-#### Soggetti a maggior rischio
+### Soggetti a maggior rischio
 
 - coloro che sono stati a stretto contatto con persone infette
 - viaggiatori di ritorno da paesi in cui
@@ -74,7 +69,7 @@ uso di droghe ---- QUALI TIPI ???
 - tossicodipendenti
 - maschi che fanno sesso con maschi (MSM)
 
-### Come si manifesta? Cosa rischio?
+## Come si manifesta, cosa rischio
 
 L’epatite A ha un periodo di incubazione che va dai 15 ai 50 giorni e un decorso generalmente benigno. Le infezioni sintomatiche sono generalmente caratterizzate dai sintomi ed i segni dell’epatite acuta e durano per 1-3 settimane.
 
@@ -87,7 +82,7 @@ In casi rari l’epatite A può evolvere in epatite fulminante, con un alto tass
 ndr - 1 caso su mille sembra tanto ....
 :::
 
-### Come si riconosce e come si cura?
+## Come si riconosce e come si cura
 
 Per riconoscere un’infezione da epatite A, il medico si basa inizialmente sui sintomi descritti dal paziente e sull’evoluzione clinica. La diagnosi si conferma attraverso esami del sangue (alti valori delle transaminasi e aumento della bilirubina) e test che rilevano un’infezione in corso e/o recente con la ricerca di anticorpi specifici.
 
@@ -108,7 +103,7 @@ Quasi tutti i pazienti guariscono completamente senza mai cronicizzare. La guari
 
 Solo in una piccolissima percentuale di persone (soprattutto soggetti adulti già affetti da altre patologie), sono state osservate forme gravi o fulminanti (rapidamente fatali).
 
-### Come si previene?
+## Come si previene
 
 L’epatite A si previene (1) prevenendo di esporsi ai rischi ambientali (cibo, acqua e contatti sessuali) curando l’igiene personale e ambientale, e (2) attraverso la vaccinazione.
 
@@ -131,6 +126,6 @@ Il vaccino è efficace nel prevenire la malattia anche dopo il contatto con il v
 
 In Italia, la vaccinazione è indicata per categorie di soggetti a rischio.
 
-### Quanto è diffusa?
+## Quanto è diffusa
 
 L'epatite A è diffusa in tutto il mondo, con una frequenza maggiore nei paesi con standard socio-sanitari più bassi (cfr. I numeri dell’epatite A). Si presenta sia in maniera sporadica sia in forma epidemica.

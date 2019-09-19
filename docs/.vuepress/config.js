@@ -100,7 +100,7 @@ module.exports = {
       ["/epatiti/", "Epatiti"],
       ["/epatiti/Epatite-A", "Epatite A"],
       ["/epatiti/Epatite-B", "Epatite B"],
-      ["/epatiti/Epatite-B", "Epatite C"],
+      ["/epatiti/Epatite-C", "Epatite C"],
     ],
 
     /**

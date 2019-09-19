@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/hero.png
 tagline: Versione bozza - solo per prove
-actionText: Quick Start →
+actionText: Inizia →
 actionLink: /epatiti/
 features:
   - title: Cosa sono?
@@ -11,5 +11,5 @@ features:
     details: Scopri il ruolo fondamentale dei Vaccini per le epatiti A e B, e cosa si fa per evitare la C.
   - title: Quiz
     details: Quanto ne sai?
-footer: Francis Farrelly 2019
+footer: Francis Farrelly @2019
 ---

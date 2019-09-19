@@ -1,11 +1,25 @@
 # Chi Siamo
 
-![Chi Siamo](/images/chi-siamo.jpg)
+ABC Epatite è una app gratuita, accessibile a tutti, che diffonde conoscenze validate sulle
+epatiti virali A, B e C. “Validate” vuol dire che ti informiamo partendo da conoscenze
+solide, prodotte da ricerche scientifiche.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam finibus non lectus at pellentesque. Suspendisse potenti. Maecenas interdum felis rhoncus dui vulputate interdum. Quisque convallis quis risus a tristique. Duis tincidunt quis ligula eget ullamcorper. Vestibulum lectus purus, imperdiet id velit auctor.
+La app è stata progettata dall'Istituto dei Sistemi Complessi del Consiglio Nazionale delle
+Ricerche insieme a un gruppo di esperti ed è stata valutata da un gruppo di utenti
+volontari. “ABC Epatite” ha vinto il bando Digital Health Program 2018 di Gilead Sciences,
+pensato per migliorare la qualità di vita dei pazienti.
 
-::: tip
-porta sollicitudin sapien. Nunc facilisis ex lacus, ac venenatis sapien vehicula non. Praesent vestibulum eget justo sit amet pellentesque. Phasellus mollis condimentum risus. Phasellus sem ligula, sollicitudin eu posuere ut, mollis sit amet augue. Suspendisse volutpat augue sit amet dignissim mattis.
-:::
+## Natura dei dati raccolti e finalità della ricerca
 
-Suspendisse potenti. Aenean pharetra eros sit amet viverra aliquam. Nulla in volutpat erat. Etiam ultricies commodo ultrices. Cras feugiat lorem lacus, non gravida eros aliquam eget. Proin vulputate nec ante sed consequat. Nullam convallis orci a turpis viverra laoreet. Nam lobortis a dolor facilisis lacinia. Vestibulum nec massa enim.
+Non raccogliamo dati personali degli utenti. La web app non richiede alcuna installazione
+sui dispositivi utilizzando invece una tecnologia innovativa nota come Progressive Web
+App. Non attiva cookies di profilazione e non identifica l'utente ma utilizza un numero
+associato al terminale in uso. I dati raccolti consentono di migliorare l’esperienza operativa
+dell’App e riguardano il flusso e le modalità di utilizzo e non sono in alcun modo collegati a
+dati anagrafici, quindi non consentono l'identificazione dell'utente.
+I dati sono trattati in forma anonima e aggregata esclusivamente con finalità di analisi
+statistica e per pubblicazioni scientifiche.
+
+I dati raccolti sono conservati presso l'Istituto dei Sistemi Complessi del Consiglio
+Nazionale delle Ricerche ed eventualmente trasferiti ad altri istituti di ricerca nel rispetto
+delle finalità e delle condizioni di trattamento stabilite originariamente nel progetto.

@@ -2,7 +2,8 @@
 title: Introduzione
 lang: it-IT
 ---
-![Fegato](../img/liver-3.jpg)
+
+![Fegato](/images/liver.jpg)
 
 ## Il Fegato
 
@@ -10,7 +11,7 @@ Il fegato è la più grande ghiandola del corpo umano è svolge un ruolo fondame
 
 ## L’epatite
 
-L’epatite è un'infiammazione del fegato. 
+L’epatite è un'infiammazione del fegato.
 
 ### Sintomi
 
@@ -23,6 +24,7 @@ Sintomi iniziali dell'epatite acuta
 - colore giallastro degli occhi e della pelle (ittero)
 
 ### Cause
+
 Può essere causata da:
 
 - infezioni
@@ -32,7 +34,6 @@ Può essere causata da:
 - intossicazioni alimentari e farmaci
   - da alcol, vegetali, funghi ecc.
 - malattie autoimmuni
-
 
 ## Le epatiti virali
 
