@@ -105,6 +105,8 @@ Solo in una piccolissima percentuale di persone (soprattutto soggetti adulti gi�
 
 ## Come si previene
 
+![Cuocere il cibo](/images/cooking.jpg)
+
 L’epatite A si previene (1) prevenendo di esporsi ai rischi ambientali (cibo, acqua e contatti sessuali) curando l’igiene personale e ambientale, e (2) attraverso la vaccinazione.
 
 Misure di prevenzione consigliate per tutte le malattie a trasmissione oro-fecale:

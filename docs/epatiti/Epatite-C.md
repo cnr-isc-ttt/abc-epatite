@@ -12,6 +12,8 @@ Non esiste un vaccino per l’epatite C. Tuttavia oggi esistono farmaci capaci d
 
 ## Come la prendo
 
+![CNR ISC](/images/needle.jpg)
+
 Il virus dell’epatite C si trasmette da sangue a sangue, cioè quando il sangue fresco di una persona infetta entra in contatto col sangue di una persona sana tramite una ferita o lesione della cute. Il rischio di contagio tramite trasfusioni oggi è quasi azzerato.
 
 La trasmissione da madre a figlio al momento del parto è possibile ma infrequente, meno del 5% di nati da madre con epatite cronica C diventa a sua volta infetto.

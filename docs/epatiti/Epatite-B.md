@@ -17,6 +17,8 @@ Inoltre il riconoscimento delle donne in età fertile con epatite cronica B è m
 
 ## Come la prendo
 
+![CNR ISC](/images/sex.jpg)
+
 Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene a contatto con liquidi biologici di soggetti infetti, come il sangue, le secrezioni delle mucose genitali e lo sperma. Il contagio può avvenire anche dalla madre al neonato al durante la gravidanza, al momento del parto o durante l’allattamento se non vengono presi specifici provvedimenti.
 
 Il contatto e la trasmissione del virus avvengono attraverso siringhe, aghi, apparecchiature sanitarie infette (strumenti non adeguatamente sterilizzati per agopuntura, tatuaggi, cure dentali, manicure, ecc.).
