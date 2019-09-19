@@ -3,11 +3,14 @@
 ABC Epatite è una app gratuita, accessibile a tutti, che diffonde conoscenze validate sulle
 epatiti virali A, B e C. “Validate” vuol dire che ti informiamo partendo da conoscenze
 solide, prodotte da ricerche scientifiche.
-
+![CNR ISC](/images/isc-cnr.jpg)
 La app è stata progettata dall'Istituto dei Sistemi Complessi del Consiglio Nazionale delle
 Ricerche insieme a un gruppo di esperti ed è stata valutata da un gruppo di utenti
-volontari. “ABC Epatite” ha vinto il bando Digital Health Program 2018 di Gilead Sciences,
+volontari.
+
+“ABC Epatite” ha vinto il bando **Digital Health Program 2018 di Gilead Sciences**,
 pensato per migliorare la qualità di vita dei pazienti.
+![Gilead](/images/Gilead-DH.png)
 
 ## Natura dei dati raccolti e finalità della ricerca
 
