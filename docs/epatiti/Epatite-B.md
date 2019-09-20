@@ -1,5 +1,7 @@
 # Epatite B
 
+![liquidi biologici](/images/sex.jpg)
+
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip" />
 
 L'epatite B è una infezione del fegato causata da un virus, che rappresenta un grave problema per la sanità mondiale. Si presenta in forma acuta e può diventare cronica.
@@ -16,8 +18,6 @@ Esiste un vaccino efficace per prevenirla. La prevenzione è fondamentale per du
 Inoltre il riconoscimento delle donne in età fertile con epatite cronica B è molto importante per prevenire l’infezione neonatale che è associata con altissime proporzioni di cronicizzazione.
 
 ## Come la prendo
-
-![CNR ISC](/images/sex.jpg)
 
 Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene a contatto con liquidi biologici di soggetti infetti, come il sangue, le secrezioni delle mucose genitali e lo sperma. Il contagio può avvenire anche dalla madre al neonato al durante la gravidanza, al momento del parto o durante l’allattamento se non vengono presi specifici provvedimenti.
 
@@ -61,9 +61,12 @@ L’epatite B è una malattia complessa e deve essere trattata da medici special
 
 ## Come si previene
 
+![Vaccino](/images/vaccino.jpg)
+
 ::: tip La vaccinazione
 Per prevenire l’epatite B e le sue conseguenze (malattie al fegato correlate) esiste una vaccinazione sicura ed efficace, con una copertura del 95%.
 :::
+
 In Italia, dal 1991 la vaccinazione è obbligatoria per tutti i nuovi nati e fortemente raccomandata per i gruppi a maggior rischio d’infezione (tossicodipendenti, personale sanitario, conviventi di portatori cronici, ecc.). Il ciclo vaccinale consiste in tre somministrazioni; per i nuovi nati di solito viene utilizzato il vaccino esavalente, che, oltre a proteggere dall’epatite B, previene anche difterite, poliomielite, tetano, pertosse e infezioni invasive da _Haemophilus influenzae **B**_.
 
 Nei casi di alto rischio di trasmissione dalla madre al neonato, la prima dose del vaccino si somministra entro le prime 12-24 ore di vita del bambino.

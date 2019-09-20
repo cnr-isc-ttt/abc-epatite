@@ -3,7 +3,7 @@ title: Introduzione
 lang: it-IT
 ---
 
-![Fegato](/images/liver.jpg)
+![Fegato](/images/stock/liver-female.jpg)
 
 ## Il Fegato
 
