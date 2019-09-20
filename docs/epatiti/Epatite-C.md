@@ -1,5 +1,7 @@
 # Epatite C
 
+![Contatto sangue-sangue](/images/needle.jpg)
+
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip" />
 
 L’epatite C è un'infezione del fegato, causata da un virus, che nella sua fase acuta è spesso asintomatica. Il virus si trasmette prevalentemente attraverso la via parenterale cioè quando il sangue fresco di una persona infetta entra in contatto col sangue di una persona sana da una “porta d’ingresso” (ferita o lesione della cute), ad esempio tramite siringhe e strumentazioni mediche o estetiche non sterili. Meno frequente, è la trasmissione da madre a figlio al momento del parto.
@@ -11,8 +13,6 @@ Molto spesso la malattia non viene immediatamente diagnosticata in quanto le for
 Non esiste un vaccino per l’epatite C. Tuttavia oggi esistono farmaci capaci di eliminare l’infezione in quasi tutti i soggetti con infezione cronica. Le misura di prevenzione restano comunque di fondamentale importanza in quanto tutti coloro che guariscono dall’epatite C possono essere re-infettati. L’infezione infatti non produce immunità.
 
 ## Come la prendo
-
-![CNR ISC](/images/needle.jpg)
 
 Il virus dell’epatite C si trasmette da sangue a sangue, cioè quando il sangue fresco di una persona infetta entra in contatto col sangue di una persona sana tramite una ferita o lesione della cute. Il rischio di contagio tramite trasfusioni oggi è quasi azzerato.
 
