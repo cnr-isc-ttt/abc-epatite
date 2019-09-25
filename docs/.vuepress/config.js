@@ -125,16 +125,30 @@ module.exports = {
         link: "/chi-siamo"
       }
     ],
-    sidebar: [
-      "/",
-      ["/epatiti/", "Epatiti"],
-      ["/epatiti/Epatite-A", "Epatite A"],
-      ["/epatiti/Epatite-B", "Epatite B"],
-      ["/epatiti/Epatite-C", "Epatite C"],
-      ["/epatiti/Azioni", "Azioni"],
-      ["/epatiti/Diffusione", "Diffusione"],
-      ["/epatiti/Falsi", "Falsità"]
-    ],
+    sidebar: {
+      '/epatite-a/': [
+        '/epatite-a/',
+        '/epatite-a/Contagio',
+        '/epatite-a/Sintomi',
+        '/epatite-a/Prevenzione',
+        '/epatite-a/Diffusione',
+      ],
+
+      '/epatiti/': [{
+        title: 'Old',
+        collapsable: false,
+        children: [
+          "/",
+          ["/epatiti/", "Epatiti"],
+          ["/epatiti/Epatite-A", "Epatite A"],
+          ["/epatiti/Epatite-B", "Epatite B"],
+          ["/epatiti/Epatite-C", "Epatite C"],
+          ["/epatiti/Azioni", "Azioni"],
+          ["/epatiti/Diffusione", "Diffusione"],
+          ["/epatiti/Falsi", "Falsità"]
+        ]
+      }]
+    },
 
     /**
      * Apply plugins，ref：https://v1.vuepress.vuejs.org/en/plugin/
