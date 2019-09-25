@@ -1,13 +1,6 @@
 # Quiz A
 
-<QuizChoice ans="fegato" yes >Si - Le epatiti virali sono processi infettivi del fegato.</QuizChoice>
-
-1. L’epatite è una malattia che interessa:
-
--A <QuizChoice ans="stomaco" />
--B <QuizChoice ans="fegato" yes >Si - Le epatiti virali sono processi infettivi del fegato.</QuizChoice>
--C <QuizChoice ans="cuore" />
--D <QuizChoice ans="pancreas" />
+<QuizQuestion > 1. L’epatite è una malattia che interessa: <QuizChoice ans="stomaco" /> -B <QuizChoice ans="fegato" yes >Si - Le epatiti virali sono processi infettivi del fegato.</QuizChoice> -C <QuizChoice ans="cuore" /> -D <QuizChoice ans="pancreas" /></QuizQuestion>
 
 2. Esiste un vaccino:
    A) per l’epatite A

@@ -1,79 +1,6 @@
-# Epatite A
-
-![drinking (https://unsplash.com/photos/6bUmlGstym8)](/images/drinking.jpg)
-
-## Cosa è <Badge text="Risposta in 100 parole" type="tip"/>
-
-L'epatite A è un’infezione del fegato, causata da un virus, che può causare conseguenze da lievi (ad es. nausea e vomito) a gravi (rare). Si distingue dalle epatiti B e C per le modalità di trasmissione, non diventa mai cronica ed è raramente fatale.
-
-Può comunque causare sintomi debilitanti. Inoltre, le conseguenze possono essere più gravi per i pazienti con epatite cronica B o C e per coloro che hanno già una malattia del fegato.
-
-Il virus dell'epatite A può essere trasmesso attraverso cibi contaminati. Si diffonde facilmente nell'ambiente ed è molto resistente.
-
-::: danger Resistente al congelamento <Badge text=" Cuocere il cibo" type="tip"/>
-Il virus dell’epatite A è resistente al congelamento: solo la cottura elimina o inattiva il virus dai cibi contaminati.
-:::
-
-## Come la prendo
-
-L’epatite A si trasmette generalmente per via oro-fecale, cioè quando una persona ingerisce acqua o cibo contaminati dalle feci di persone infette.
-
-Il virus si trasmette anche attraverso uno stretto contatto con una persona infetta. La malattia è associata a scarse condizioni igieniche, soprattutto nella preparazione dei cibi. Ecco perché è detta epatite Alimentare.
-
-::: warning
-Il virus può essere presente nelle feci già 2 settimane **prima** che si presentino i **sintomi** dell’infezione.
-:::
-
-Alcuni persone (soprattutto i bambini) manifestano solo sintomi molto **lievi** (o addirittura **nessun sintomo**) ma sono comunque contagiose perché il virus viene eliminato lentamente.
-
-### Fattori di rischio più comuni
-
-::: warning Alimenti <Badge text=" più a rischio" type="error" />
-prodotti a base di:
-
-- pesce, crostacei, molluschi
-- vegetali, pomodori secchi
-- succhi, frutti di bosco, fragole
-  :::
-
-  ::: warning uso di acqua contaminata
-  La fonte di contaminazione più frequente dei vegetali è costituita dall’acqua contaminata utilizzata per l’irrigazione e/o la fertirrigazione.
-
-  _Attraverso l’acqua i virus si depositano preferibilmente sulla superficie esterna dei vegetali e non è ancora ben chiaro se esista un meccanismo di internalizzazione._
-
-:::
-
-:::warning scarse condizioni igieniche
-
-- durante la preparazione dei cibi
-- viaggi in zone a rischio
-  :::
-
-::: warning Contatto
-
-- stretto contatto con una persona infetta
-- trasmissione per via sessuale (soprattutto con pratiche
-- oro-genitali)
-
-::: danger droghe <Badge text=" QUALI TIPI ???" type="warn" />
-uso di droghe ---- QUALI TIPI ???
-:::
-
-### Soggetti a maggior rischio
-
-- coloro che sono stati a stretto contatto con persone infette
-- viaggiatori di ritorno da paesi in cui
-  l'epatite A è molto diffusa e/o residenti in queste aree
-  ::: tip dove
-  Centro o Sud America, Messico, Asia -Giappone escluso-, Africa, alcune aree dell’Europa orientale
-  :::
-- Bambini che spesso hanno una forma asintomatica della malattie
-  ::: tip Forme gravi <Badge text=" basso rischio" type="warn" />
-  Invece per le forme gravi i bambini sono a basso rischio  
-   :::
-- anziani non autosufficienti
-- tossicodipendenti
-- maschi che fanno sesso con maschi (MSM)
+---
+title: Sintomi
+---
 
 ## Come si manifesta, cosa rischio
 
@@ -145,7 +72,3 @@ Esiste un vaccino efficace e ben tollerato. Viene somministrato per via intramus
 Il vaccino è efficace nel prevenire la malattia **anche dopo il contatto** con il virus, purché sia somministrato entro due settimane dal contagio.
 
 In Italia, la vaccinazione è indicata per categorie di soggetti a rischio.
-
-## Quanto è diffusa
-
-L'epatite A è diffusa in tutto il mondo, con una frequenza maggiore nei paesi con standard socio-sanitari più bassi (cfr. I numeri dell’epatite A). Si presenta sia in maniera sporadica sia in forma epidemica.

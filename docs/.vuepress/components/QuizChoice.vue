@@ -1,8 +1,8 @@
 <template>
   <article class="message" :class="accordionClasses">
-    <div class="message-header" @click="toggleAccordion">
+    <h3 class="message-header" @click="toggleAccordion">
       {{ ans }}
-    </div>
+    </h3>
     <div class="message-body" v-bind:class="{ yes: yes }">
       <div class="message-content">
         <slot></slot>

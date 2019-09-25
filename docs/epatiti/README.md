@@ -15,25 +15,36 @@ L’epatite è un'infiammazione del fegato.
 
 ### Sintomi
 
-Sintomi iniziali dell'epatite acuta
+::: warning Sintomi iniziali dell'epatite acuta
 
 - malessere e debolezza
 - febbre
 - nausea, vomito
 - dolore addominale
 - colore giallastro degli occhi e della pelle (ittero)
+  :::
 
 ### Cause
 
 Può essere causata da:
+::: danger infezioni
 
-- infezioni
-  - _virali_ (epatite A, B, C, D, E, febbre gialla, mononucleosi, ecc.)
-  - _batteriche_ (tubercolosi, brucellosi, tifo addominale, ecc.)
-  - _parassitarie_ (leptospirosi, ecc.)
-- intossicazioni alimentari e farmaci
-  - da alcol, vegetali, funghi ecc.
-- malattie autoimmuni
+- _virali_ (epatite A, B, C, D, E, febbre gialla, mononucleosi, ecc.)
+- _batteriche_ (tubercolosi, brucellosi, tifo addominale, ecc.)
+- _parassitarie_ (leptospirosi, ecc.)
+
+:::
+::: danger intossicazioni
+
+- alimentari e farmaci
+- alcol, vegetali, funghi, ecc.
+  :::
+
+::: danger malattie autoimmuni
+
+- epatite cronica autoimmune
+
+:::
 
 ## Le epatiti virali
 
@@ -45,9 +56,8 @@ Questa app vuole informare sulle epatiti **A**, **B** e **C**.
 
 Questi virus sono geneticamente molto differenti, sono capaci di causare malattie con sintomi, conseguenze e modi di trasmissione **differenti**. Esistono specifiche indicazioni per la prevenzione e la cura di ciascuna di queste epatiti.
 
-::: tip
 Oltre ai 5 virus epatitici maggiori vi sono altri virus associati a forme di epatite più o meno grave.
-
+::: tip
 Le epatiti virali sono una delle più gravi minacce per la salute globale. L’OMS ha l’obiettivo di
 [eliminarle definitivamente entro il 2030](https://www.who.int/hepatitis/publications/hepatitis-service-coverage-targets/en/)
 :::

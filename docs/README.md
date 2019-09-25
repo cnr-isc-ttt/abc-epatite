@@ -13,5 +13,3 @@ features:
     details: Quanto ne sai?
 footer: Francis Farrelly @2019
 ---
-
-<Share/>

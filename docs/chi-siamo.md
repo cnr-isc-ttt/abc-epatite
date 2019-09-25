@@ -1,5 +1,7 @@
 # Chi Siamo
 
+<vp-icon color="#3eaf7c" name="github" />
+
 ABC Epatite è una app gratuita, accessibile a tutti, che diffonde conoscenze validate sulle
 epatiti virali A, B e C. “Validate” vuol dire che ti informiamo partendo da conoscenze
 solide, prodotte da ricerche scientifiche.
