@@ -126,28 +126,42 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/epatite-a/': [
-        '/epatite-a/',
-        '/epatite-a/Contagio',
-        '/epatite-a/Sintomi',
-        '/epatite-a/Prevenzione',
-        '/epatite-a/Diffusione',
-      ],
-
-      '/epatiti/': [{
-        title: 'Old',
-        collapsable: false,
-        children: [
-          "/",
-          ["/epatiti/", "Epatiti"],
-          ["/epatiti/Epatite-A", "Epatite A"],
-          ["/epatiti/Epatite-B", "Epatite B"],
-          ["/epatiti/Epatite-C", "Epatite C"],
-          ["/epatiti/Azioni", "Azioni"],
-          ["/epatiti/Diffusione", "Diffusione"],
-          ["/epatiti/Falsi", "Falsità"]
-        ]
-      }]
+      '/': [{
+          title: 'A',
+          collapsable: false,
+          children: [
+            '/epatite-a/',
+            '/epatite-a/Contagio',
+            '/epatite-a/Sintomi',
+            '/epatite-a/Prevenzione',
+            '/epatite-a/Diffusione',
+          ]
+        }, {
+          title: 'B',
+          collapsable: false,
+          children: [
+            '/epatite-b/',
+            '/epatite-b/Contagio',
+            '/epatite-b/Sintomi',
+            '/epatite-b/Prevenzione',
+            '/epatite-b/Diffusione',
+          ]
+        },
+        {
+          title: 'Old',
+          collapsable: false,
+          children: [
+            "/",
+            ["/epatiti/", "Epatiti"],
+            ["/epatiti/Epatite-A", "Epatite A"],
+            ["/epatiti/Epatite-B", "Epatite B"],
+            ["/epatiti/Epatite-C", "Epatite C"],
+            ["/epatiti/Azioni", "Azioni"],
+            ["/epatiti/Diffusione", "Diffusione"],
+            ["/epatiti/Falsi", "Falsità"]
+          ]
+        }
+      ]
     },
 
     /**
