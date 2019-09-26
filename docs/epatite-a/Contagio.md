@@ -43,8 +43,8 @@ prodotti a base di:
 - trasmissione per via sessuale (soprattutto con pratiche
 - oro-genitali)
 
-::: danger droghe <Badge text=" QUALI TIPI ???" type="warn" />
-uso di droghe ---- QUALI TIPI ???
+::: danger
+uso di droghe per iniezione
 :::
 
 ### Soggetti a maggior rischio
@@ -55,10 +55,10 @@ uso di droghe ---- QUALI TIPI ???
   ::: tip dove
   Centro o Sud America, Messico, Asia -Giappone escluso-, Africa, alcune aree dell’Europa orientale
   :::
-- Bambini che spesso hanno una forma asintomatica della malattie
+- Bambini che spesso hanno una forma asintomatica della malattie.
   ::: tip Forme gravi <Badge text=" basso rischio" type="warn" />
-  Invece per le forme gravi i bambini sono a basso rischio  
-   :::
+  Raramente i bambini sono afetti da forme gravi
+  :::
 - anziani non autosufficienti
 - tossicodipendenti
 - maschi che fanno sesso con maschi (MSM)

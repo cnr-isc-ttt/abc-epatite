@@ -10,10 +10,7 @@ La presentazione clinica include ittero (colorito giallo della cute e degli occh
 ::: tip Bambini <Badge text="Nessun sintomo" type="warn" />
 Va tuttavia ricordato che solo il 10% dei bambini con età inferiore a 6 anni sviluppa una sintomatologia clinicamente evidente.
 :::
-In casi rari l’epatite A può evolvere in epatite fulminante, con un alto tasso di mortalità. La moralità nella popolazione generale è di circa 1 caso su mille ma sale fino a 18 casi su mille nei soggetti di età superiore a 50 anni.
-::: danger FF
-ndr - 1 caso su mille sembra tanto ....
-:::
+In casi rari l’epatite A può evolvere in epatite fulminante e pericolosa.
 
 ## Come si riconosce e come si cura
 
