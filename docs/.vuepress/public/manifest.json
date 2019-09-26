@@ -3,7 +3,7 @@
   "short_name": "Epatite",
   "theme_color": "#336699",
   "background_color": "#336699",
-  "display": "fullscreen",
+  "display": "standalone",
   "Scope": "/",
   "start_url": "/",
   "icons": [
