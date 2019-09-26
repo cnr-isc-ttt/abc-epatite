@@ -1,4 +1,6 @@
-const { description } = require("../../package");
+const {
+  description
+} = require("../../package");
 
 module.exports = {
   /**
@@ -114,8 +116,7 @@ module.exports = {
     docsDir: "",
     editLinkText: "",
     lastUpdated: false,
-    nav: [
-      {
+    nav: [{
         text: "Epatiti",
         link: "/epatiti/"
       },
@@ -125,8 +126,7 @@ module.exports = {
       }
     ],
     sidebar: {
-      "/": [
-        {
+      "/": [{
           title: "A",
           collapsable: false,
           children: [
@@ -148,8 +148,20 @@ module.exports = {
             "/epatite-b/Diffusione"
           ]
         },
+
         {
-          title: "Old",
+          title: "C",
+          collapsable: false,
+          children: [
+            "/epatite-c/",
+            "/epatite-c/Contagio",
+            "/epatite-c/Sintomi",
+            "/epatite-c/Prevenzione",
+            "/epatite-c/Diffusione"
+          ]
+        },
+        {
+          title: "Informazioni",
           collapsable: false,
           children: [
             "/",

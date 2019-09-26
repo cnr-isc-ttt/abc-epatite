@@ -1,4 +1,6 @@
-# Epatite A
+---
+title: Epatite A
+---
 
 ![drinking (https://unsplash.com/photos/6bUmlGstym8)](/images/drinking.jpg)
 

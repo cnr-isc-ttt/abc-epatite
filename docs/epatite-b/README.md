@@ -1,4 +1,6 @@
-# Epatite B
+---
+title: Epatite B
+---
 
 ![liquidi biologici](/images/sex.jpg)
 
