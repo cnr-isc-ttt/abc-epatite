@@ -118,7 +118,7 @@ module.exports = {
     lastUpdated: false,
     nav: [{
         text: "Epatiti",
-        link: "/epatiti/"
+        link: "/Introduzione"
       },
       {
         text: "Chi siamo",
@@ -127,9 +127,9 @@ module.exports = {
     ],
     sidebar: {
       "/": [
-        ["/Introduzione", "Epatiti"], {
+        ["/Introduzione", "Le Epatiti"], {
           title: "A",
-          collapsable: true,
+          collapsable: false,
           children: [
             "/epatite-a/",
             "/epatite-a/Contagio",
@@ -139,7 +139,7 @@ module.exports = {
           ]
         }, {
           title: "B",
-          collapsable: true,
+          collapsable: false,
           children: [
             "/epatite-b/",
             "/epatite-b/Contagio",
@@ -149,7 +149,7 @@ module.exports = {
           ]
         }, {
           title: "C",
-          collapsable: true,
+          collapsable: false,
           children: [
             "/epatite-c/",
             "/epatite-c/Contagio",
@@ -160,11 +160,12 @@ module.exports = {
         },
         {
           title: "Altro",
-          collapsable: true,
+          collapsable: false,
           children: [
             ["/epatiti/Azioni", "Azioni"],
             ["/epatiti/Diffusione", "Diffusione"],
-            ["/epatiti/Falsi", "Falsità"]
+            ["/Infondatezze", "Falsità"],
+            ["/Link", "Link"]
           ]
         },
         ["/", "Home"]
