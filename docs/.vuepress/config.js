@@ -1,6 +1,4 @@
-const {
-  description
-} = require("../../package");
+const { description } = require("../../package");
 
 module.exports = {
   /**
@@ -116,7 +114,8 @@ module.exports = {
     docsDir: "",
     editLinkText: "",
     lastUpdated: false,
-    nav: [{
+    nav: [
+      {
         text: "Epatiti",
         link: "/epatiti/"
       },
@@ -126,29 +125,31 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/': [{
-          title: 'A',
+      "/": [
+        {
+          title: "A",
           collapsable: false,
           children: [
-            '/epatite-a/',
-            '/epatite-a/Contagio',
-            '/epatite-a/Sintomi',
-            '/epatite-a/Prevenzione',
-            '/epatite-a/Diffusione',
-          ]
-        }, {
-          title: 'B',
-          collapsable: false,
-          children: [
-            '/epatite-b/',
-            '/epatite-b/Contagio',
-            '/epatite-b/Sintomi',
-            '/epatite-b/Prevenzione',
-            '/epatite-b/Diffusione',
+            "/epatite-a/",
+            "/epatite-a/Contagio",
+            "/epatite-a/Sintomi",
+            "/epatite-a/Prevenzione",
+            "/epatite-a/Diffusione"
           ]
         },
         {
-          title: 'Old',
+          title: "B",
+          collapsable: false,
+          children: [
+            "/epatite-b/",
+            "/epatite-b/Contagio",
+            "/epatite-b/Sintomi",
+            "/epatite-b/Prevenzione",
+            "/epatite-b/Diffusione"
+          ]
+        },
+        {
+          title: "Old",
           collapsable: false,
           children: [
             "/",
@@ -167,10 +168,6 @@ module.exports = {
     /**
      * Apply plugins，ref：https://v1.vuepress.vuejs.org/en/plugin/
      */
-    plugins: [
-      "@vuepress/plugin-back-to-top",
-      "@vuepress/plugin-medium-zoom",
-      "@goy/svg-icons"
-    ]
+    plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"]
   }
 };
