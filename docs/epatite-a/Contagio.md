@@ -2,6 +2,8 @@
 title: Contagio
 ---
 
+<ImproveGithub :page=$page />
+
 ## Come la prendo
 
 L’epatite A si trasmette generalmente per via oro-fecale, cioè quando una persona ingerisce acqua o cibo contaminati dalle feci di persone infette.

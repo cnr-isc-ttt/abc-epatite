@@ -34,3 +34,20 @@ Inoltre, è importante evitare di somministrare farmaci inutili. Se il soggetto 
 Quasi tutti i pazienti guariscono completamente senza mai cronicizzare. La guarigione conferisce immunità permanente (il soggetto non potrà più ammalarsi di epatite A).
 
 Solo in una piccolissima percentuale di persone (soprattutto soggetti adulti già affetti da altre patologie), sono state osservate forme gravi o fulminanti (rapidamente fatali).
+
+## Se sono infetto
+
+Valutate l'opportunità di fare il **vaccino**.
+
+::: warning Ridurre il rischio di contagiare altri
+
+- Avvertire le persone con il quale avete avuto contatti di valutare la possibilità di vaccinarsi.
+- Evitare di andare a lavoro o scuola per almeno una settimana dopo l’inizio dei sintomi (ittero, ecc.).
+- Evitare di preparare il cibo per altri, ove possibile.
+- Lavare le mani frequentemente, specialmente dopo essere stati al bagno, e prima di preparare il cibo.
+- Evitare la condivisione di asciugamani.
+- Lavare separatamente gli indumenti con un ciclo a temperatura calda
+- Lavare frequentemente il WC e la rubinetteria del bagno.
+- Evitare rapporti sessuali nel periodo infettivo.
+
+:::
