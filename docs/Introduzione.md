@@ -12,21 +12,30 @@ Il fegato è la più grande ghiandola del corpo umano è svolge un ruolo fondame
 
 L’epatite è un'infiammazione del fegato.
 
+::: warning Non si eredita l'epatite
+Le epatiti **non** si trasmettono per via _genetica_ o _ereditaria_.
+:::
+
 ### Sintomi
 
-::: warning Sintomi iniziali dell'epatite acuta
+L'epatite può anche essere asintomatica quindi si può essere inconsapevole di essere ammalati.
+
+Sintomi che possono presentarsi sono:
+
+::: warning
 
 - malessere e debolezza
 - febbre
 - nausea, vomito
 - dolore addominale
-- colore giallastro degli occhi e della pelle (ittero)
-  :::
+- **ittero**, colore giallastro degli occhi e della pelle
+
+:::
 
 ### Cause
 
 Può essere causata da:
-::: danger infezioni
+::: tip infezioni
 
 - _virali_ (epatite A, B, C, D, E, febbre gialla, mononucleosi, ecc.)
 - _batteriche_ (tubercolosi, brucellosi, tifo addominale, ecc.)
@@ -39,7 +48,7 @@ Può essere causata da:
 - alcol, vegetali, funghi, ecc.
   :::
 
-::: danger malattie autoimmuni
+::: warning malattie autoimmuni
 
 - epatite cronica autoimmune
 
@@ -61,14 +70,10 @@ Le epatiti virali sono una delle più gravi minacce per la salute globale. L’O
 [eliminarle definitivamente entro il 2030](https://www.who.int/hepatitis/publications/hepatitis-service-coverage-targets/en/)
 :::
 
-::: warning Non si eredita l'epatite
-Le epatiti sono dovute a infezioni virali, **non** si trasmettono per via _genetica_ o _ereditaria_.
-:::
-
 ### Contagio
 
 ::: tip Epatite A <Badge text="A-limentare" type="tip"/>
-è un'infezione a trasmissione oro-fecale. Il contagio avviene principalmente mangiando cibi contaminati dal virus o per contatti molto stretti con persone che hanno un'infezione acuta in corso.
+è un'infezione a trasmissione oro-fecale. Il contagio avviene principalmente mangiando cibi (o bevendo liquidi) contaminati dal virus o per contatti molto stretti con persone che hanno un'infezione acuta in corso.
 :::
 
 ::: tip Epatite B <Badge text="B-io liquidi" type="tip"/>
