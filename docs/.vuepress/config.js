@@ -115,7 +115,7 @@ module.exports = {
     editLinks: true,
     docsDir: "",
     editLinkText: "Proponi modifiche",
-    lastUpdated: true,
+    lastUpdated: "al",
     nav: [{
         text: "Epatiti",
         link: "/Introduzione"
