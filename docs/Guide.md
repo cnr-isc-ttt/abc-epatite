@@ -44,7 +44,7 @@
 In caso di viaggi e/o partecipazione a eventi di massa:
 
 - Prima di partire, informati sulla situazione epidemiologica e igienica del paese che visiterai
-- Prima di partire, controlla il tuo stato vaccinale, assicurati di essere in regola con le vaccinazioni raccomandate in Italia e consulta il tuo medico o i centri vaccinali presenti sul territorio regionale (NDR -- DOVE POSSONO CERCARE QUELLO PIù VICINO A LORO?) sulla necessità di ulteriori vaccinazioni
+- Prima di partire, controlla il tuo stato vaccinale, assicurati di essere in regola con le vaccinazioni raccomandate in Italia e consulta il tuo medico o i centri vaccinali presenti sul territorio regionale sulla necessità di ulteriori vaccinazioni
 
 ::: warning In viaggio
 

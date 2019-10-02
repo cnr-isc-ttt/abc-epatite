@@ -162,7 +162,7 @@ module.exports = {
           title: "Altro",
           collapsable: false,
           children: [
-            ["/InBreve", "In breve"],
+            ["/Guide", "Guide"],
             ["/Infondatezze", "Falsità"],
             ["/Link", "Link"]
           ]

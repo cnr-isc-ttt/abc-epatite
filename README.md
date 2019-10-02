@@ -1,9 +1,10 @@
 # abc-epatite
 
 ABC Epatite
+[Epatite.web.app](https://epatite.web.app)
 
-**status. Alpha**
+## Status
 
-BOZZA
+Currently **Beta**
+
 yarn build
-firebase deploy

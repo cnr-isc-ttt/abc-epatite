@@ -1,18 +1,31 @@
-# Chi Siamo
+---
+title: About
+---
 
-ABC Epatite è una app gratuita, accessibile a tutti, che diffonde conoscenze validate sulle
-epatiti virali A, B e C. “Validate” vuol dire che ti informiamo partendo da conoscenze
-solide, prodotte da ricerche scientifiche.
-![CNR ISC](/images/isc-cnr.jpg)
+## App OpenSource
+
+ABC Epatite è una app opensource gratuita, accessibile a tutti, che diffonde conoscenze validate sulle
+epatiti virali **A**, **B** e **C**.
+
+L'intero codice è disponibile
+
+## Chi Siamo
+
+### Istituto dei Sistemi Complessi
+
+![CNR ISC](/images/logo-isc.png)
 La app è stata progettata dall'Istituto dei Sistemi Complessi del Consiglio Nazionale delle
 Ricerche insieme a un gruppo di esperti ed è stata valutata da un gruppo di utenti
 volontari.
 
+### Digital Health Program 2018 di Gilead Sciences
+
+![Gilead](/images/Gilead-dh.png)
+
 “ABC Epatite” ha vinto il bando **Digital Health Program 2018 di Gilead Sciences**,
 pensato per migliorare la qualità di vita dei pazienti.
-![Gilead](/images/Gilead-DH.png)
 
-## Natura dei dati raccolti e finalità della ricerca
+### Natura dei dati raccolti e finalità della ricerca
 
 Non raccogliamo dati personali degli utenti. La web app non richiede alcuna installazione
 sui dispositivi utilizzando invece una tecnologia innovativa nota come Progressive Web
