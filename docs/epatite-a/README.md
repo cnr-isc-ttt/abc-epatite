@@ -15,3 +15,7 @@ Il virus dell'epatite A può essere trasmesso attraverso cibi e bevande contamin
 ::: danger Resistente al congelamento <Badge text=" Cuocere il cibo" type="tip"/>
 Il virus dell’epatite A è resistente al congelamento: solo la cottura elimina o inattiva il virus dai cibi contaminati.
 :::
+
+::: tip Vaccino
+per l'epatite **A** esiste un vaccino efficace e ben tollerato
+:::
