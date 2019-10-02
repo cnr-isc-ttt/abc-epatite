@@ -9,6 +9,5 @@ L'epatite **A** è presente in tutto il mondo, soprattutto nei Paesi del sud. Og
 
 ## Italia
 
-L'Italia è un paese a diffusione medio-bassa con un andamento in diminuzione (1 caso ogni 100.000 abitanti). Tuttavia, vi sono stati focolai epidemici dovuti al consumo di alimenti inquinati, come frutti di mare, vegetali e frutta (nel 1992, 1994, 1997, 2013) e/o a comportamenti a rischio (2016).
-
-Generalmente si guarisce completamente. La malattia è letale in una percentuale di casi che si attesta tra lo 0,1% e lo 0,3%, percentuale che può raggiungere l'1,8% negli adulti sopra i 50 anni.
+_"In Italia, il numero di nuovi casi (incidenza) di epatite A si è ridotto in modo significativo negli ultimi venti anni e nel 2016 è stato registrato un tasso di incidenza di 0,83 casi per 100.000 abitanti."_
+[vedi ISS Salute](https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/e/epatite-a)

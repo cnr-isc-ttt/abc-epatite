@@ -21,6 +21,8 @@ Il virus sopravvive anche all’esterno del corpo, sulle superfici ambientali, p
 :::
 Si può quindi essere contagiati tramite oggetti contaminati a propria insaputa (spazzolini da denti, rasoi, forbici, pettini) in seguito a piccole lesioni della cute o delle mucose.
 
+Non ci sono motivi per temere il contagio a tavola: non occorre utilizzare stoviglie separate o prendere altre precauzioni simili. Il virus dell’epatite **B** non si trasmette attraverso il contatto fisico, gli starnuti, la tosse e neppure mangiando dallo stesso piatto.
+
 ### Soggetti a maggior rischio
 
 ::: danger Rischio maggiore
