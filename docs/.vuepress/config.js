@@ -122,7 +122,7 @@ module.exports = {
       },
       {
         text: "Chi siamo",
-        link: "/chi-siamo"
+        link: "/About"
       }
     ],
     sidebar: {
@@ -162,8 +162,7 @@ module.exports = {
           title: "Altro",
           collapsable: false,
           children: [
-            ["/epatiti/Azioni", "Azioni"],
-            ["/epatiti/Diffusione", "Diffusione"],
+            ["/InBreve", "In breve"],
             ["/Infondatezze", "Falsità"],
             ["/Link", "Link"]
           ]
