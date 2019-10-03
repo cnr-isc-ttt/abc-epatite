@@ -6,6 +6,20 @@ ABC Epatite
 ## Status
 
 Currently **Beta**
-yarn dev
-or
-yarn build
+
+Install
+
+- yarn add -D @vuepress/plugin-back-to-top@next
+- yarn add -D @vuepress/plugin-google-analytics
+- yarn add -D @vuepress/plugin-pwa@next
+- yarn add -D @vuepress/plugin-google-analytics
+
+- yarn
+
+Develop
+
+- yarn dev
+
+Build
+
+- yarn build

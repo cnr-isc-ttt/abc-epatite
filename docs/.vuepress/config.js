@@ -111,11 +111,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "cnr-isc-ttt/abc-epatite",
+    repo: "cnr-isc-ttt/abc-epatite/",
     editLinks: true,
-    docsDir: "",
+    docsDir: "docs/",
     editLinkText: "Proponi modifiche",
-    lastUpdated: "al",
+    lastUpdated: false,
     nav: [{
         text: "Epatiti",
         link: "/Introduzione"
