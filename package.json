@@ -1,0 +1,23 @@
+{
+  "name": "abc-epatite",
+  "version": "0.9.1",
+  "description": "ABC Epatite tutto quello che devo sapere",
+  "main": "index.js",
+  "authors": {
+    "name": "Francis A. Farrelly",
+    "email": "francis.farrelly@isc.cnr.it"
+  },
+  "repository": "/abc-epatite",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-google-analytics": "^1.1.0",
+    "@vuepress/plugin-medium-zoom": "^1.0.0",
+    "@vuepress/plugin-pwa": "^1.0.0-rc.1",
+    "vuepress": "^1.0.0"
+  }
+}
