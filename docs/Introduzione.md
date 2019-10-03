@@ -12,7 +12,7 @@ Il fegato è la più grande ghiandola del corpo umano è svolge un ruolo fondame
 
 L’epatite è un'infiammazione del fegato.
 
-::: warning Non si eredita l'epatite
+::: warning L'epatite non si eredita
 Le epatiti **non** si trasmettono per via _genetica_ o _ereditaria_.
 :::
 

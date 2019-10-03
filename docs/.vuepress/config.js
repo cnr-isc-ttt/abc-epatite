@@ -163,7 +163,7 @@ module.exports = {
           collapsable: false,
           children: [
             ["/Guide", "Guide"],
-            ["/Infondatezze", "Falsità"],
+            ["/Infondatezze", "False notizie"],
             ["/Link", "Link"]
           ]
         },
