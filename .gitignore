@@ -11,6 +11,7 @@ dist
 config.local.js
 basement_dist
 google*.html
+stock-paid/
 firebase.json
 .firebaserc
 .firebase
