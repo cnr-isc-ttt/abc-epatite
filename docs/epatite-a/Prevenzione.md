@@ -2,7 +2,7 @@
 title: Prevenzione
 ---
 
-![Vaccino](/images/vaccino-1.jpg)
+![Vaccino](../assets/images/vaccino-1.jpg)
 
 ## Come si previene
 

@@ -2,7 +2,7 @@
 title: Epatite A
 ---
 
-![Acqua contaminata (https://unsplash.com/photos/6bUmlGstym8)](/images/drinking.jpg)
+![Acqua contaminata (https://unsplash.com/photos/6bUmlGstym8)](../assets/images/AcquaContaminata.jpg)
 
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip"/>
 

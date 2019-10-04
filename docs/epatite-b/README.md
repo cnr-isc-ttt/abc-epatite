@@ -2,7 +2,7 @@
 title: Epatite B
 ---
 
-![liquidi biologici](/images/sex.jpg)
+![liquidi biologici (https://unsplash.com/photos/dDo5fbDH5Ss)](../assets/images/sesso.jpg)
 
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip" />
 

@@ -2,7 +2,7 @@
 title: Epatite C
 ---
 
-![Contatto sangue-sangue (https://unsplash.com/photos/MfnX4XtGnvU)](/images/needle.jpg)
+![Contatto sangue-sangue (https://unsplash.com/photos/MfnX4XtGnvU)](../assets/images/ago.jpg)
 
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip" />
 

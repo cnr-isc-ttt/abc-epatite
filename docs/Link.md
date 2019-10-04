@@ -4,6 +4,7 @@
 
 - [Istituto Superiore di Sanità](https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/e/epatiti)
 - [Epicentro cura dell'Istituto superiore di sanità](https://www.epicentro.iss.it/epatite/epatite)
+- [EpaC - Il portale dei pazienti con epatite e malattie del fegato](https://www.epac.it/)
 
 ## In Inglese
 

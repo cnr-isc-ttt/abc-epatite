@@ -2,7 +2,7 @@
 title: Contagio
 ---
 
-![liquidi biologici](/images/sperm-green.jpg)
+![liquidi biologici](../assets/images/uovo-sperma.jpg)
 
 ## Come la prendo
 

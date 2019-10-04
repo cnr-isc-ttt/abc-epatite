@@ -2,7 +2,7 @@
 title: Introduzione
 ---
 
-![Fegato](/images/stock/liver-female.jpg)
+![Fegato](./assets/images/liver-female.jpg)
 
 ## Il Fegato
 

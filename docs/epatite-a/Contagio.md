@@ -2,7 +2,7 @@
 title: Contagio
 ---
 
-![Cuocere il cibo (https://unsplash.com/photos/APDMfLHZiRA)](/images/cooking.jpg)
+![Cuocere il cibo (https://unsplash.com/photos/APDMfLHZiRA)](../assets/images/cucinare.jpg)
 
 ## Come la prendo
 
