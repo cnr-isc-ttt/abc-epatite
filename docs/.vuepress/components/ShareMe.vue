@@ -1,8 +1,8 @@
 <template>
   <p class="share">
-    <span class="action-button" v-if="isShare" @click="share()">
+    <a class="action-button" v-if="isShare" @click="share()">
       Condividi App
-    </span>
+    </a>
   </p>
 </template>
 <script>

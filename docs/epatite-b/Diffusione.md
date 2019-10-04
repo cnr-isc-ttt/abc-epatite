@@ -5,7 +5,7 @@
 
 L’epatite **B** è diffusa in tutto il mondo, causando ogni anno migliaia di morti (soprattutto a causa delle complicazioni, incluse cirrosi e cancro). Secondo i dati dell’OMS, circa 257 milioni di persone nel mondo sono affette da epatite B cronica.
 
-## Mondiale
+## Mondo
 
 L’epatite B è presente in modo diffuso in tutto il mondo: circa 1/3 della popolazione mondiale è stata esposta al virus e circa 257 milioni di persone sono affette da epatite B cronica. Nel 2015 (ultimo dato disponibile) sono morte circa 887.000 persone per malattie correlate all'epatite B.
 

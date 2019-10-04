@@ -46,13 +46,13 @@ _Attraverso l’acqua i virus si depositano preferibilmente sulla superficie est
   :::
 
 ::: danger
-uso di droghe per iniezione
+uso di droghe
 :::
 
 ### Soggetti a maggior rischio
 
 - coloro che sono stati a stretto contatto con persone infette
-- Bambini che spesso hanno una forma asintomatica della malattie.
+- bambini che spesso hanno una forma asintomatica della malattie.
   ::: tip Forme gravi <Badge text=" basso rischio" type="warn" />
   Raramente i bambini sono affetti da forme gravi
   :::

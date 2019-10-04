@@ -32,8 +32,8 @@ Se viaggi verso paesi ad alta diffusione di epatite **A** (o con scarse condizio
 
 - mangia solo cibi cotti (attenzione a verdure e frutti di mare)
 - bevi esclusivamente acqua in bottiglia
-- non consumare ghiaccio (se non certo della provenienza dell'acqua).
-- Consulta il [portale dell'epidemiologia](https://www.epicentro.iss.it/epatite/Epidemiologia-Mondo)
+- non consumare ghiaccio (se non sei certo della provenienza dell'acqua).
+- consulta il [portale dell'epidemiologia](https://www.epicentro.iss.it/epatite/Epidemiologia-Mondo)
 
 :::
 

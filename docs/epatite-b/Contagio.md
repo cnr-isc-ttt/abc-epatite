@@ -14,7 +14,7 @@ Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene
 
 Il contagio può avvenire anche dalla madre al neonato al durante la gravidanza, al momento del parto o durante l’allattamento se non vengono presi specifici provvedimenti.
 
-Il contatto e la trasmissione del virus avvengono attraverso siringhe, aghi, apparecchiature sanitarie infette (strumenti non adeguatamente sterilizzati per agopuntura, tatuaggi, cure dentali, manicure, ecc.).
+Il contatto e la trasmissione del virus avvengono anche attraverso siringhe, aghi, apparecchiature sanitarie infette (strumenti non adeguatamente sterilizzati per agopuntura, tatuaggi, cure dentali, manicure, ecc.).
 
 ::: warning Resistente
 Il virus sopravvive anche all’esterno del corpo, sulle superfici ambientali, per almeno **7 giorni**.

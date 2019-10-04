@@ -2,24 +2,23 @@
 
 ## Prevenzione
 
-### 6 modi per proteggersi dall’epatite A
+### 7 modi per proteggersi dall’epatite A
 
 ::: tip
 
-1. Consulta il tuo medico sul vaccino anti-epatite A
+1. Consulta il tuo medico sul vaccino anti-epatite **A**
 2. Cuoci bene il cibo e mangialo mentre è ancora caldo. Evita i frutti di mare crudi e la carne cruda
 3. Lavati SEMPRE le mani con acqua e sapone dopo essere andato in bagno, prima di cucinare e prima di mangiare
 4. Se ti occupi di neonati, lavati sempre le mani dopo aver cambiato un pannolino
 5. Sbuccia frutta e verdura, lava l’insalata con acqua pulita e sicura
 6. Bevi solo acqua pulita e sicura
-7. Informati della necessità di vaccinarti prima di partire in viaggio
    :::
 
-### 6 modi per proteggersi dalle epatiti B e C
+### 5 modi per proteggersi dalle epatiti B e C
 
 ::: tip
 
-1. Consulta il tuo medico sul vaccino anti-epatite B
+1. Consulta il tuo medico sul vaccino anti-epatite **B**
 2. Non condividere MAI aghi, rasoi o spazzolini da denti
 3. Se sei incinta, parla con il tuo medico su come prevenire la trasmissione al bambino
 4. Pretendi l’utilizzo di strumenti sterilizzati per tatuaggi e piercing

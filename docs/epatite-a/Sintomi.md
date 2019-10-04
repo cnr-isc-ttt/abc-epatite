@@ -13,7 +13,7 @@ L’epatite A ha un periodo di incubazione che va dai 15 ai 50 giorni e un decor
 - anoressia
 - vomito
 - astenia
-- rialzo degli indici di danno epatica (bilirubina e transaminasi)
+- rialzo degli indici di danno epatico (bilirubina e transaminasi)
   :::
 
 ::: tip Bambini <Badge text="Spesso senza sintomi" type="warn" />
@@ -45,17 +45,17 @@ Solo in una piccolissima percentuale di persone (soprattutto soggetti adulti gi�
 ## Se sono infetto
 
 ::: tip
-Valutate l'opportunità di fare il **vaccino**.
+Valuta l'opportunità di fare il **vaccino**.
 :::
 
 ::: warning Ridurre il rischio di contagiare altri
 
-- Avvertire le persone con il quale avete avuto contatti di valutare la possibilità di vaccinarsi.
+- Avvertire le persone con le quale avete avuto contatti di valutare la possibilità di vaccinarsi.
 - Evitare di andare a lavoro o scuola per almeno una settimana dopo l’inizio dei sintomi (ittero, ecc.).
 - Evitare di preparare il cibo per altri, ove possibile.
 - Lavare le mani frequentemente, specialmente dopo essere stati al bagno, e prima di preparare il cibo.
 - Evitare la condivisione di asciugamani.
-- Lavare separatamente gli indumenti con un ciclo a temperatura calda
+- Lavare separatamente gli indumenti con un ciclo a temperatura alta
 - Lavare frequentemente il WC e la rubinetteria del bagno.
 - Evitare rapporti sessuali nel periodo infettivo.
 

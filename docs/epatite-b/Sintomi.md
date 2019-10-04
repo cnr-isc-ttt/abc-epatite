@@ -12,7 +12,7 @@ Quando presenti i
 ::: warning sintomi
 
 - mancanza di appetito
-- disturbi addominali
+- dolori addominali
 - nausea
 - vomito
 - malessere generale e stanchezza

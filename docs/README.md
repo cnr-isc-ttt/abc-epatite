@@ -8,7 +8,7 @@ features:
   - title: Cosa sono?
     details: A - Alimenti, B liquidi Biologici, C Contatto sangue-sangue. Scopri come si contraggono, e molto di più.
   - title: Evitarle
-    details: Vaccinarsi per le epatiti A e B, e cosa si fa per evitare la C. Scopri perchè questo è importante.
+    details: Vaccinarsi per le epatiti A e B, e cosa si fa per evitare la C. Scopri perché questo è importante.
   - title: Quiz
     details: Quanto ne sai? (in preparazione)
 footer: Francis Farrelly @2019

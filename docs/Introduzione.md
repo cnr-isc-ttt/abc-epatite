@@ -18,7 +18,7 @@ Le epatiti **non** si trasmettono per via _genetica_ o _ereditaria_.
 
 ### Sintomi
 
-L'epatite può anche essere asintomatica quindi si può essere inconsapevoli di essere ammalati.
+L'epatite può anche essere asintomatica, quindi si può essere inconsapevoli di essere ammalati.
 
 Sintomi che possono presentarsi sono:
 
@@ -44,8 +44,9 @@ Può essere causata da:
 :::
 ::: danger intossicazioni
 
-- alimentari e farmaci
-- alcol, vegetali, funghi, ecc.
+- alcol
+- farmaci
+- sostanze vegetali, funghi, ecc.
   :::
 
 ::: warning malattie autoimmuni
@@ -94,7 +95,7 @@ Inoltre sia il virus dell’epatite **B** che il virus dell’epatite **C** poss
 Per l’epatite **A** e **B** esistono vaccini mentre per l'epatite **C**, anche se non esistono vaccini, ci sono farmaci capaci di curare quasi tutti i pazienti.
 
 :::
-L’epatite B e l’epatite C possono causare infezione croniche, ovvero infezioni che possono durare anche tutta la vita. Le infezioni croniche nel tempo possono causare danni gravi al fegato (cirrosi epatica e cancro del fegato) e possono portare allo sviluppo di gravi disturbi del sistema immunitario (come linfomi e malattie autoimmuni).
+L’epatite B e l’epatite C possono causare infezioni croniche, ovvero infezioni che possono durare anche tutta la vita. Le infezioni croniche nel tempo possono causare danni gravi al fegato (cirrosi epatica e cancro del fegato) e possono portare allo sviluppo di gravi disturbi del sistema immunitario (come linfomi e malattie autoimmuni).
 
 Visto che le epatiti croniche producono danni evidenti in tempi lunghi, un gran numero di persone non sa di essere cronicamente infetto: nel mondo ci sono circa 257 milioni di persone con epatite cronica B e 70 milioni con epatite cronica C.
 
