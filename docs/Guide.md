@@ -32,7 +32,7 @@
 ::: warning Chiedi al tuo medico di fare il test se
 
 - Hai ricevuto cure mediche/dentali o trattamenti estetici con strumenti non sterili
-- Hai fatto use uso di droghe
+- Hai fatto uso di droghe
 - Hai ricevuto una trasfusione di sangue in un paese che non effettua test pre-trasfusionali per l’epatite
 - Tua madre era affetta da epatite quando sei nato
 - Sei positivo all'HIV

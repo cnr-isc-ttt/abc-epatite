@@ -6,7 +6,7 @@ title: Introduzione
 
 ## Il Fegato
 
-Il fegato è la più grande ghiandola del corpo umano è svolge un ruolo fondamentale nella digestione. Svolge molte funzioni, tra cui la depurazione delle sostanze tossiche e nella difesa dell'organismo. La salute del fegato si ripercuote su tutto l'organismo.
+Il fegato è la più grande ghiandola del corpo umano e svolge un ruolo fondamentale nella digestione. Svolge molte funzioni, tra cui la depurazione delle sostanze tossiche e nella difesa dell'organismo. La salute del fegato si ripercuote su tutto l'organismo.
 
 ## L’epatite
 
@@ -18,7 +18,7 @@ Le epatiti **non** si trasmettono per via _genetica_ o _ereditaria_.
 
 ### Sintomi
 
-L'epatite può anche essere asintomatica quindi si può essere inconsapevole di essere ammalati.
+L'epatite può anche essere asintomatica quindi si può essere inconsapevoli di essere ammalati.
 
 Sintomi che possono presentarsi sono:
 
@@ -85,7 +85,7 @@ si trasmette quasi esclusivamente attraverso il sangue (sangue con sangue) di un
 :::
 
 ::: warning In gravidanza
-Inoltre sia il virus dell’epatite **B** che il virus dell’epatite **C** possono essere tramessi dalla _madre al bambino_ nel corso della _gravidanza_ o nelle _fasi del parto_
+Inoltre sia il virus dell’epatite **B** che il virus dell’epatite **C** possono essere trasmessi dalla _madre al bambino_ nel corso della _gravidanza_ o nelle _fasi del parto_
 :::
 
 ### Impatto

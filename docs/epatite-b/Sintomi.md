@@ -18,7 +18,7 @@ Quando presenti i
 - malessere generale e stanchezza
 - febbre
 - urine scure
-- a volte ittero (colorito giallastro della pelle e della parte bianca dell'occhio).
+- a volte ittero (colorito giallastro della pelle e della parte bianca dell'occhio)
 
 :::
 
@@ -36,7 +36,7 @@ Pertanto l’unica vera garanzia per prevenire tutte le complicanze del virus de
 
 ## Come si riconosce e come si cura
 
-Il miglior modo per combattere l’epatite B è la vaccinazione. Se credi di non essere stato vaccinato e per motivi legati al tuo lavoro o al tuo stile di vita ti senti a rischio chiedi di essere vaccinato al tuo medico. Benché il miglior modo per prevenire l’infezione sia la vaccinazione prima di esporsi al rischio di contagio, il vaccino può essere ancora efficace anche dopo 24 h dopo essere stati esposti al virus.
+Il miglior modo per combattere l’epatite B è la vaccinazione. Se credi di non essere stato vaccinato e per motivi legati al tuo lavoro o al tuo stile di vita ti senti a rischio chiedi di essere vaccinato al tuo medico. Benché il miglior modo per prevenire l’infezione sia la vaccinazione prima di esporsi al rischio di contagio, il vaccino può essere ancora efficace anche 24 ore dopo essere stati esposti al virus.
 
 Se pensi di essere entrato a contatto con il virus dell’epatite B in una specifica situazione (es. durante un rapporto sessuale), parla subito con un medico. Un trattamento farmacologico (con immunoglobuline specifiche) entro le 24 ore dal contagio, abbinato alla vaccinazione con successivi richiami, protegge dallo sviluppo dell’infezione.
 ::: tip La diagnosi
@@ -44,7 +44,7 @@ dell'epatite **B** si effettua principalmente tramite **esami del sangue**.
 :::
 Le analisi del sangue permettono di dimostrare l’infezione acuta e cronica e danno indicazione sulla necessità di vaccinazione o di inizio della terapia.
 
-L’epatite **B** è una malattia complessa e **deve essere trattata da medici specialisti** sia nelle sue presentazione di epatite acuta che nelle sue forme di cronicizzazione.
+L’epatite **B** è una malattia complessa e **deve essere trattata da medici specialisti** sia nelle sue manifestazioni di epatite acuta che nelle sue forme di cronicizzazione.
 
 ::: tip Trattamento
 Esistono farmaci specifici per il trattamento dell’epatite B.

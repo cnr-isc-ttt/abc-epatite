@@ -54,7 +54,7 @@ uso di droghe per iniezione
 - coloro che sono stati a stretto contatto con persone infette
 - Bambini che spesso hanno una forma asintomatica della malattie.
   ::: tip Forme gravi <Badge text=" basso rischio" type="warn" />
-  Raramente i bambini sono afetti da forme gravi
+  Raramente i bambini sono affetti da forme gravi
   :::
 - anziani non autosufficienti
 - tossicodipendenti

@@ -6,7 +6,7 @@ title: Contagio
 
 ## Come la prendo
 
-Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene a contatto con **liquidi biologici** di soggetti **infetti**, come il
+Il virus dell’epatite **B** si trasmette quando un soggetto suscettibile viene a contatto con **liquidi biologici** di soggetti **infetti**, come
 
 - sangue
 - secrezioni delle mucose genitali
