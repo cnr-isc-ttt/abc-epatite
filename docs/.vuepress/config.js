@@ -87,8 +87,10 @@ module.exports = {
       }
     ]
   ],
-  plugins: {
-    "@vuepress/pwa": {
+  plugins: [
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/medium-zoom', true],
+    ["@vuepress/pwa", {
       serviceWorker: true,
       updatePopup: {
         "/": {
@@ -100,11 +102,14 @@ module.exports = {
           buttonText: "Aggiorna"
         }
       }
-    },
-    "@vuepress/google-analytics": {
+    }],
+    ["@vuepress/google-analytics", {
       ga: "UA-148405053-1"
-    }
-  },
+    }],
+    ['sitemap', {
+      hostname: 'https://epatite.web.app'
+    }]
+  ],
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
@@ -171,11 +176,6 @@ module.exports = {
         ["/About", "About"],
         ["/Privacy", "Privacy"],
       ]
-    },
-
-    /**
-     * Apply plugins，ref：https://v1.vuepress.vuejs.org/en/plugin/
-     */
-    plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"]
+    }
   }
 };

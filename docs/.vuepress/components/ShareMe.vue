@@ -13,16 +13,14 @@ export default {
     };
   },
   mounted() {
-    console.log(navigator);
     if (navigator.share) {
     } else {
-      console.log("cannot share");
+      console.log("cannot share"); // TODO
     }
     this.isShare = navigator.share !== undefined;
   },
   methods: {
     share() {
-      console.log(navigator);
       if (!this.isShare) return;
       navigator
         .share({
