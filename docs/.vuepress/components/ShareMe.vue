@@ -3,6 +3,14 @@
     <a class="action-button" v-if="isShare" @click="share()">
       Condividi App
     </a>
+    <a
+      class="action-button"
+      v-else
+      href="mailto:?subject=ABC+Epatite+web+app+tutto+quello+che+devo+sapere;body=https://epatite.web.app/"
+      title="Condividi per Mail"
+    >
+      Condividi App
+    </a>
   </p>
 </template>
 <script>
@@ -43,15 +51,15 @@ p.share {
   display: inline-block;
   font-size: 1.2rem;
   color: #fff;
-  background-color: $accentColor;
+  background-color: $infoColor;
   padding: 0.8rem 1.6rem;
   border-radius: 4px;
   transition: background-color 0.1s ease;
   box-sizing: border-box;
-  border-bottom: 1px solid darken($accentColor, 10%);
+  border-bottom: 1px solid darken($infoColor, 10%);
 
   &:hover {
-    background-color: lighten($accentColor, 10%);
+    background-color: lighten($infoColor, 10%);
   }
 }
 
