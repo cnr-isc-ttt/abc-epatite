@@ -1,5 +1,4 @@
 ---
-layout: QuizLayout
 QandA:
   - Q: L’epatite è una malattia che interessa
     A: stomaco
@@ -8,17 +7,17 @@ QandA:
     D: pancreas
     R:
       - B
-      - Le epatiti virali sono processi infettivi del fegato.
+      - Le epatiti sono processi infettivi del fegato.
 
   - Q: Esiste un vaccino
-    A: per l’epatite A
-    B: per l’epatite B
-    C: per l’epatite C
-    D: più di una risposta è corretta
+    A: no, non esiste per l'epatite virale
+    B: per l’epatite A e C
+    C: per l’epatite A e B
+    D: per l’epatite A, B e C
     R:
-      - D
+      - C
       - Esiste un vaccino per l’epatite A (facoltativo) e B (obbligatorio).
-      - Non esistono vaccini per altre forme di epatite, ma esistono buone pratiche di prevenzione.
+      - Non esistono vaccini per altre forme di epatite
 
   - Q: Quale forma di epatite si trasmette spesso da madre a figlio?
     A: Epatite A
@@ -27,10 +26,7 @@ QandA:
     D: Nessuna
     R:
       - B
-      - L’epatite non è una malattia genetica né ereditaria.
-      - L’epatite B si può trasmettere da madre a figlio durante il parto, ma può essere prevenuta se la madre è consapevole di avere
-      - l’epatite e se l’immunoglobulina (farmaco specifico viene somministrata al neonato entro 12-24 ore dalla nascita.
-      - In casi molto rari, anche l’epatite C può essere trasmessa da madre a figlio al momento del parto.
+      - L’epatite non è una malattia genetica né ereditaria. L’epatite B si può trasmettere da madre a figlio durante il parto, ma può essere prevenuta se la madre è consapevole di avere l’epatite e se l’immunoglobulina (farmaco specifico viene somministrata al neonato entro 12-24 ore dalla nascita. In casi molto rari, anche l’epatite C può essere trasmessa da madre a figlio al momento del parto.
 
   - Q: L’epatite A si può prendere
     A: mangiando frutti di mare crudi
@@ -103,6 +99,4 @@ QandA:
       - Esistono trattamenti nuovissimi per curare l’epatite C, molto più efficaci, sicuri e tollerabili rispetto alle terapie più vecchie, che garantiscono tassi di guarigione superiori al 95%. Il problema è che la malattia è spesso asintomatica e vi sono moltissime persone che non sanno di avere l’epatite.
 ---
 
-# the rest
-
----
+<QuizLayout/>

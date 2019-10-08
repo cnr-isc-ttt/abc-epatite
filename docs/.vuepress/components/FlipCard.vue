@@ -2,10 +2,14 @@
   <div class="cardcontainer" @click="() => (isFlipped = !isFlipped)">
     <div class="card" :class="{ flipped: isFlipped }">
       <div class="front">
+        <label><GestureTap /></label>
         <h4 v-if="title">{{ title }}</h4>
-        <p><slot></slot></p>
+        <slot></slot>
       </div>
-      <div class="back"><slot name="backside"></slot></div>
+      <div class="back">
+        <label><GestureTap /></label>
+        <slot name="backside"></slot>
+      </div>
     </div>
   </div>
 </template>
@@ -22,12 +26,19 @@ export default {
 };
 </script>
 <style lang="stylus" scoped>
+label {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+}
+
 .cardcontainer {
   width: 90%;
   height: 300px;
   position: relative;
   perspective: 800px;
   border-radius: 4px;
+  margin-bottom: 32px;
 }
 
 .card {

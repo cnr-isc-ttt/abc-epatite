@@ -4,11 +4,13 @@
       <li v-for="q in data">
         <article>
           <h3>{{ q.Q }}</h3>
-          <FlipCard>
-            <p>(A) {{ q.A }}</p>
-            <p>(B) {{ q.B }}</p>
-            <p>(C) {{ q.C }}</p>
-            <p>(D) {{ q.D }}</p>
+          <FlipCard
+            ><ul>
+              <li>(A) {{ q.A }}</li>
+              <li>(B) {{ q.B }}</li>
+              <li>(C) {{ q.C }}</li>
+              <li>(D) {{ q.D }}</li>
+            </ul>
             <template v-slot:backside
               ><ul>
                 <li v-for="r in q.R">{{ r }}</li>

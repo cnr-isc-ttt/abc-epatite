@@ -5,7 +5,8 @@
  */
 import
 ShareVariant
-from './components/ShareVariant.vue';
+from '../../node_modules/mdi-vue/ShareVariant';
+import GestureTap from '../../node_modules/mdi-vue/GestureTap';
 export default ({
   Vue, // the version of Vue being used in the VuePress app
   options, // the options for the root Vue instance
@@ -14,4 +15,6 @@ export default ({
 }) => {
   // ...apply enhancements for the site.
   Vue.component('ShareVariant', ShareVariant);
+  Vue.component('GestureTap', GestureTap);
+
 };
