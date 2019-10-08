@@ -23,7 +23,7 @@ export default {
   mounted() {
     if (navigator.share) {
     } else {
-      console.log("cannot share"); // TODO
+      // console.log("cannot share"); // TODO
     }
     this.isShare = navigator.share !== undefined;
   },
