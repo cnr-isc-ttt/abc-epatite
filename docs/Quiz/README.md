@@ -1,22 +1,3 @@
----
-layout: QuizLayout
----
+# Scheda dei Quiz
 
-# this is a test
-
-can this work
-
-# my test
-
-::: slot header
-
-## Here might be a page title
-
-:::
-::: slot footer
-
-## Here's some contact info
-
-:::
-
-## Introduction
+[Quiz 1](./Quiz-1.md)

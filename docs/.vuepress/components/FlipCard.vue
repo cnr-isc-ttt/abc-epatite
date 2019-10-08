@@ -1,7 +1,10 @@
 <template>
-  <div class="container" @click="() => (isFlipped = !isFlipped)">
+  <div class="cardcontainer" @click="() => (isFlipped = !isFlipped)">
     <div class="card" :class="{ flipped: isFlipped }">
-      <div class="front"><slot></slot></div>
+      <div class="front">
+        <h4 v-if="title">{{ title }}</h4>
+        <p><slot></slot></p>
+      </div>
       <div class="back"><slot name="backside"></slot></div>
     </div>
   </div>
@@ -12,13 +15,16 @@ export default {
     return {
       isFlipped: false
     };
+  },
+  props: {
+    title: String
   }
 };
 </script>
 <style lang="stylus" scoped>
-.container {
-  width: 300px;
-  height: 200px;
+.cardcontainer {
+  width: 90%;
+  height: 300px;
   position: relative;
   perspective: 800px;
   border-radius: 4px;
@@ -40,18 +46,17 @@ export default {
     height: 100%;
     backface-visibility: hidden;
     border-radius: 6px;
-    background: $backColor;
+    background: darken($infoColor, 10%);
     display: flex;
     justify-content: center;
     align-items: center;
-    font: 16px / 1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* font: 16px / 1.5 'Helvetica Neue', Helvetica, Arial, sans-serif; */
     font-smoothing: antialiased;
-    color: $textColor;
+    color: #fff;
   }
 
   .front {
-    background: darken($accentColor, 20%);
-    color: #fff;
+    background: darken($accentColor, 10%);
   }
 
   .back {
