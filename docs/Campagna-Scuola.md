@@ -1,8 +1,7 @@
 ---
 home: true
-
 navbar: false
-pageClass: campagna-scuola-class
+pageClass: campagna-scuola-class-2
 tagline: Campagna di Sensibilizzazione Scolastica
 actionText: Inizia →
 actionLink: /Introduzione
