@@ -21,6 +21,7 @@
     "vuepress": "^1.0.0"
   },
   "dependencies": {
+    "mdi-vue": "^1.2.3",
     "vuepress-plugin-sitemap": "^2.1.2"
   }
 }

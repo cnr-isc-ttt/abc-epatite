@@ -1,7 +1,7 @@
 <template>
   <p class="share">
     <a class="action-button" v-if="isShare" @click="share()">
-      Condividi App
+      Condividi App <ShareVariant />
     </a>
     <a
       class="action-button"
@@ -9,7 +9,7 @@
       href="mailto:?subject=ABC+Epatite+web+app+tutto+quello+che+devo+sapere;body=https://epatite.web.app/"
       title="Condividi per Mail"
     >
-      Condividi App
+      Condividi App <ShareVariant />
     </a>
   </p>
 </template>

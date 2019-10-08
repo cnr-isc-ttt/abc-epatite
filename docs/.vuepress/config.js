@@ -108,7 +108,15 @@ module.exports = {
     }],
     ['sitemap', {
       hostname: 'https://epatite.web.app'
-    }]
+    }],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'quizcard',
+        before: info => `<flip-card class="card"><h3 class="title">${info}</h3>`,
+        after: '</flip-card>',
+      },
+    ]
   ],
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
