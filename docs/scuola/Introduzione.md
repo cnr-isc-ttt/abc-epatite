@@ -1,6 +1,8 @@
 ---
 title: Introduzione Semplificata
 sidebar: false
+navbar: false
+next: Epatiti
 ---
 
 ## Il Fegato

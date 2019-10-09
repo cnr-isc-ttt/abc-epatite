@@ -125,13 +125,13 @@ module.exports = {
    */
   themeConfig: {
     repo: "cnr-isc-ttt/abc-epatite/",
-    editLinks: true,
+    editLinks: false,
     docsDir: "docs/",
     editLinkText: "Proponi modifiche",
     lastUpdated: false,
     nav: [{
-        text: "Epatiti",
-        link: "/Introduzione"
+        text: "Percorso Scolastico",
+        link: "/scuola/"
       },
       {
         text: "About",

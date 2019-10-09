@@ -1,5 +1,6 @@
 <template>
   <p class="share">
+    Condividi
     <a
       title="Condividi App"
       class="action-button"
@@ -52,17 +53,8 @@ export default {
       // console.log("cannot share"); // TODO
     }
     this.isShare = navigator.share !== undefined;
-    this.msg();
   },
   methods: {
-    msg() {
-      const s = {
-        title: "ABC Epatite",
-        text: "ABC Epatite tutto quello che devo sapere",
-        url: this.url
-      };
-      console.log(s);
-    },
     share() {
       if (!this.isShare) return;
       navigator
