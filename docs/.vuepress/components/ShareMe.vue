@@ -1,24 +1,50 @@
 <template>
   <p class="share">
-    <a class="action-button" v-if="isShare" @click="share()">
-      Condividi App <ShareVariant />
-    </a>
     <a
+      title="Condividi App"
       class="action-button"
-      v-else
-      href="mailto:?subject=ABC+Epatite+web+app+tutto+quello+che+devo+sapere;body=https://epatite.web.app/"
-      title="Condividi per Mail"
+      v-if="isShare"
+      @click="share()"
     >
-      Condividi App <ShareVariant />
+      <ShareVariant />
     </a>
+    <span v-else class="share">
+      <a
+        target="_blank"
+        class="action-button"
+        :href="mailto"
+        title="Condividi per Mail"
+      >
+        <EmailSendOutline />
+      </a>
+      <a
+        target="_blank"
+        class="action-button"
+        title="Condividi su WhatsApp"
+        :href="whatsApp"
+        ><WhatsApp />
+      </a>
+    </span>
   </p>
 </template>
 <script>
+const mySite = "https://epatite.web.app/";
 export default {
   data() {
     return {
       isShare: false
     };
+  },
+  computed: {
+    url() {
+      return mySite + (this.$page.path == "/" ? "" : this.$page.path);
+    },
+    whatsApp() {
+      return "https://api.whatsapp.com/send?text=" + this.url;
+    },
+    mailto() {
+      return "mailto:?subject=ABC+Epatite+web+app;body=" + this.url;
+    }
   },
   mounted() {
     if (navigator.share) {
@@ -26,15 +52,24 @@ export default {
       // console.log("cannot share"); // TODO
     }
     this.isShare = navigator.share !== undefined;
+    this.msg();
   },
   methods: {
+    msg() {
+      const s = {
+        title: "ABC Epatite",
+        text: "ABC Epatite tutto quello che devo sapere",
+        url: this.url
+      };
+      console.log(s);
+    },
     share() {
       if (!this.isShare) return;
       navigator
         .share({
           title: "ABC Epatite",
           text: "ABC Epatite tutto quello che devo sapere",
-          url: "https://epatite.web.app/"
+          url: this.url
         })
         .then(() => console.log("Successful share"))
         .catch(error => console.log("Error sharing", error));
@@ -45,6 +80,9 @@ export default {
 <style lang="stylus">
 p.share {
   text-align: center;
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
 }
 
 .action-button {
@@ -57,6 +95,7 @@ p.share {
   transition: background-color 0.1s ease;
   box-sizing: border-box;
   border-bottom: 1px solid darken($infoColor, 10%);
+  margin: 6px;
 
   &:hover {
     background-color: lighten($infoColor, 10%);
