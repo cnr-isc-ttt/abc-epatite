@@ -15,7 +15,7 @@ L'intero codice è disponibile su [github](https://github.com/cnr-isc-ttt/abc-ep
 
 ![CNR ISC](/images/logo-isc.png)
 
-Resposabile del progetto [Francis A. Farrelly](https://www.isc.cnr.it/staff-members/francis-allen-farrelly/)
+Responsabile del progetto [Francis A. Farrelly](https://www.isc.cnr.it/staff-members/francis-allen-farrelly/)
 
 La app è stata progettata dall'Istituto dei Sistemi Complessi del Consiglio Nazionale delle
 Ricerche insieme a un gruppo di esperti ed è stata valutata da un gruppo di utenti
