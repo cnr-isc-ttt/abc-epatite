@@ -15,20 +15,27 @@ pageClass: custom-page-class-scuola
 ### Scuole
 
 Per la campagna di sensibilizione scolastica è stata creato un
+::: tip Percorso Semplificato
+scopri l'epatite in [5 passi](./Introduzione/)
 
-[Percorso Semplificato in 5 passi](./Introduzione/)
+:::
 
 ### Scuola primaria
 
 Per le classi della scuola primaria questa app è adatta a:
 
+::: tip
+
 - attività didattica in classe (ad esmpio con LIM)
 - consultazione in famiglia
+  :::
 
 ### Scuola secondaria di primo grado e secondo grado
+
+::: tip
 
 - Adatto anche per attività autonoma
 - in famiglia
 - eventualmente approfondimento con il [Percorso Principale](../Introduzione/)
-
-<ShareMe/>
+  :::
+  <ShareMe/>
