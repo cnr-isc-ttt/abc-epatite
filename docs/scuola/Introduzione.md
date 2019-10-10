@@ -3,19 +3,20 @@ title: Introduzione Semplificata
 sidebar: false
 navbar: false
 next: Epatiti
+pageClass: custom-page-class-scuola
 ---
 
 ## Il Fegato
 
-![Fegato](../assets/images/liver-female.jpg)
-
-Il fegato è la più grande ghiandola del corpo umano.
+Il fegato è la più grande ghiandola del corpo umano e svolge varie funzioni nel corpo.
 
 Aiuta in molti modi per esempio:
 
 - nella digestione, produciendo la **bile**
 - nell’eliminare sostanze tossiche
 - nel produrre proteine di plasma per il sangue
+
+![Fegato](../assets/images/liver-female.jpg)
 
 ## L’epatite
 

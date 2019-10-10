@@ -3,6 +3,7 @@ title: Epatite C - Semplificata
 sidebar: false
 navbar: false
 next: ./Condividi.md
+pageClass: custom-page-class-scuola
 ---
 
 ## Epatite C
@@ -32,4 +33,4 @@ next: ./Condividi.md
 ## Dove è più frequente
 
 ![JOURNAL (WJCC-6-589)](../assets/images/WJCC-6-589-g003.jpg)
-[_World J Clin Cases 2018; 6(13): 589-599_](https://dx.doi.org/10.12998/wjcc.v6.i13.589)
+_[*World J Clin Cases 2018; 6(13): 589-599*](https://dx.doi.org/10.12998/wjcc.v6.i13.589)_

@@ -1,12 +1,14 @@
 ---
 title: Epatiti - Semplificata
 sidebar: false
+navbar: false
 next: ./Epatite-A
+pageClass: custom-page-class-scuola
 ---
 
-![Virus ](../assets/images/virus.jpg)
-
 ## Epatiti virali
+
+![Virus ](../assets/images/virus.jpg)
 
 Le Epatiti virali sono causate da virus che attacano il fegato, causando una infiammazione chiamata epatite.
 
