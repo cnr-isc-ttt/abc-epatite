@@ -10,11 +10,14 @@ pageClass: custom-page-class-scuola
 
 Il fegato è la più grande ghiandola del corpo umano e svolge varie funzioni nel corpo.
 
-Aiuta in molti modi per esempio:
+::: tip Aiuta a
 
-- nella digestione, produciendo la **bile**
-- nell’eliminare sostanze tossiche
-- nel produrre proteine di plasma per il sangue
+- filtrare il sangue
+- eliminare sostanze tossiche
+- la digestione producendo la **bile**
+- produrre proteine per il sangue
+
+:::
 
 ![Fegato](../assets/images/liver-female.jpg)
 

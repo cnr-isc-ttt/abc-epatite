@@ -16,7 +16,7 @@ pageClass: custom-page-class-scuola
 ![Contatto sangue-sangue (https://unsplash.com/photos/MfnX4XtGnvU)](../assets/images/ago.jpg)
 ::: warning
 
-- Non essiste un vaccino per l'epatite **C**
+- Non esiste un vaccino per l'epatite **C**
 - ma si può curare
   :::
 

@@ -140,7 +140,9 @@ module.exports = {
     ],
     sidebar: {
       "/": [
-        ["/Introduzione", "Le Epatiti"], {
+        ["/Introduzione", "Il Fegato"],
+        ["/Epatiti", "Le Epatiti Virali"],
+        {
           title: "A",
           collapsable: false,
           children: [
