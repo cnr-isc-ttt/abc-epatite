@@ -1,14 +1,11 @@
 <template>
   <p class="share">
-    Condividi
-    <a
-      title="Condividi App"
-      class="action-button"
-      v-if="isShare"
-      @click="share()"
-    >
-      <ShareVariant />
-    </a>
+    <em>Condividi</em>
+    <span v-if="isShare" class="share">
+      <a title="Condividi App" class="action-button" @click="share()">
+        <ShareVariant />
+      </a>
+    </span>
     <span v-else class="share">
       <a
         target="_blank"
@@ -29,7 +26,7 @@
   </p>
 </template>
 <script>
-const mySite = "https://epatite.web.app/";
+const mySite = "https://epatite.web.app";
 export default {
   data() {
     return {
@@ -38,7 +35,7 @@ export default {
   },
   computed: {
     url() {
-      return mySite + (this.$page.path == "/" ? "" : this.$page.path);
+      return mySite + this.$page.path;
     },
     whatsApp() {
       return "https://api.whatsapp.com/send?text=" + this.url;
