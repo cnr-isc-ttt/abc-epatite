@@ -1,5 +1,5 @@
 ---
-title: Epatite A - Semplificata
+title: 3. Epatite A
 sidebar: false
 navbar: false
 next: ./Epatite-B
@@ -9,21 +9,21 @@ pageClass: custom-page-class-scuola
 ## Epatite A
 
 ::: tip Epatite A <Badge text="A-limentare" type="tip"/>
-Questo malattia si trasmette tipicamente attraverso acqua contaminata che porta il virus.
+Questa malattia si trasmette tipicamente attraverso acqua contaminata con il virus _Hepatovirus A_ (**HVA**).
 :::
-Specialmente nei paesi più poveri, se non ci sono fognature adeguate è possibile che l'acqua per lavare o bere sia contaminata.
+Specialmente nei paesi più poveri, se non ci sono fognature adeguate è possibile che l'acqua per lavare il cibo o bere sia contaminata.
 Si può essere infettati anche per contatti molto stretti con persone che hanno un'infezione acuta in corso.
 
 ![Acqua contaminata (https://unsplash.com/photos/6bUmlGstym8)](../assets/images/AcquaContaminata.jpg)
 
 ::: warning Consigli per chi viaggia in paesi esotici
 
-- Esiste un vaccino anti-epatite **A**
-- non consumare frutti di mare crudi
+- esiste un vaccino anti-epatite **A**
+- non consumare frutti di mare crudi (cozze, vongole, telline, ecc.)
 - lavare accuratamente con acqua pulita (o disinfettata) le verdure prima di mangiarle
 - lavare e sbucciare la frutta
 - non bere acqua che potrebbe essere contaminata (per esempio acqua di pozzo)
-- essere scrupolosamente attenti nella manipolazione di cibi e bevande
+- lavarsi con cura le mani prima di cucinare o toccare cibi e bevande
 - proteggere gli alimenti dagli insetti
 
   :::

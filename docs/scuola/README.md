@@ -20,21 +20,27 @@ scopri l'epatite in [5 passi](./Introduzione/)
 
 :::
 
+1. Il Fegato
+2. Le Epatiti Virali
+3. Epatite A
+4. Epatite B
+5. Epatite C
+
 ### Scuola primaria
 
 Per le classi della scuola primaria questa app è adatta a:
 
 ::: tip
 
-- attività didattica in classe (ad esmpio con LIM)
+- attività didattica in classe (ad esempio con LIM)
 - consultazione in famiglia
   :::
 
-### Scuola secondaria di primo grado e secondo grado
+### Scuola secondaria di primo e secondo grado
 
 ::: tip
 
-- Adatto anche per attività autonoma
+- adatto anche per attività autonoma
 - in famiglia
 - eventuale approfondimento nel [Percorso Principale](../Introduzione/)
   :::

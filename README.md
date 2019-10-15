@@ -3,11 +3,7 @@
 ABC Epatite
 [Epatite.web.app](https://epatite.web.app)
 
-## Status
-
-Currently **Beta**
-
-Install
+## Install
 
 - yarn add -D @vuepress/plugin-back-to-top@next
 - yarn add -D @vuepress/plugin-google-analytics
