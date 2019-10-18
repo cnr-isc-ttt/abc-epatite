@@ -13,14 +13,14 @@ La trasmissione dell'epatite B attraverso rapporti sessuali può essere prevenut
 L’epatite è una malattia genetica o ereditaria: non è vero!
 
 ::: tip Scopri la verità:
-L’epatite non è una malattia genetica né ereditaria. Sono malattie infettive.
+Le epatiti non sono malattie genetiche né ereditarie, hanno una origine [tossica o virale](./Introduzione.html#l’epatite).
 :::
 
 ::: danger Non è vero!
 Se ho avuto l’epatite A, sono immune dagli altri tipi di epatite: non è vero!
 
 ::: tip Scopri la verità:
-Le persone che hanno avuto l’epatite A sono protette solo contro l’epatite A. Sono ancora a rischio di infezione per le altre forme di epatite. Esiste un vaccino per l’epatite A e B. Non c'è immunità e non esiste un vaccino per l’epatite C.
+Le persone che hanno avuto l’epatite A sono protette solo contro l’epatite A. Sono ancora a rischio di infezione per le [altre forme di epatite](Epatiti.html#impatto). Esiste un vaccino per l’epatite A e B. Non c'è immunità e non esiste un vaccino per l’epatite C.
 :::
 
 ::: danger Non è vero!

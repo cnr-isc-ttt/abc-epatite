@@ -20,10 +20,10 @@ In Italia, dal 1991 la vaccinazione è **obbligatoria** per tutti i **nuovi nati
 - conviventi di portatori cronici, ecc.
   :::
 
-Il ciclo vaccinale consiste in tre somministrazioni; per i nuovi nati di solito viene utilizzato il vaccino esavalente, che, oltre a proteggere dall’epatite B, previene anche difterite, poliomielite, tetano, pertosse e infezioni invasive da _Haemophilus influenzae **B**_.
+Il ciclo vaccinale consiste in tre somministrazioni; per i nuovi nati di solito viene utilizzato il vaccino esavalente, che, oltre a proteggere dall’epatite B, previene anche difterite, poliomielite, tetano, pertosse e infezioni invasive da _Haemophilus influenzae B_.
 
 Nei casi di alto rischio di trasmissione dalla madre al neonato, la prima dose del vaccino si somministra entro le prime 12-24 ore di vita del bambino.
 
 ::: tip
-Da quando è stato introdotto il vaccino in Italia ad oggi, i nuovi casi di epatite B si sono ridotti dell'80% (nei gruppi di età destinatari dell’intervento vaccinale, 0-24 anni).
+Da quando è stato introdotto il vaccino in Italia, i nuovi casi di epatite B si sono ridotti dell'80% (nei gruppi di età destinatari dell’intervento vaccinale, 0-24 anni).
 :::

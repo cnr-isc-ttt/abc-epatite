@@ -8,7 +8,7 @@ title: Prevenzione
 un **vaccino** per l’epatite **C**.
 :::
 
-Le uniche misure di prevenzione realmente efficaci sono a livello di popolazione il trattamento dei soggetti infetti ed a livello individuale l’assunzione di comportamenti per la **riduzione** del rischio, che includono:
+Le uniche misure di prevenzione realmente efficaci sono, a livello di popolazione, il trattamento dei soggetti infetti e, a livello individuale, l’assunzione di comportamenti per la **riduzione** del rischio:
 
 ::: warning
 
@@ -18,7 +18,7 @@ Le uniche misure di prevenzione realmente efficaci sono a livello di popolazione
 - in caso di tatuaggi, fori alle orecchie/piercing e pratiche estetiche che prevedono l’uso di aghi/forbici/ecc.:
   ::: tip
   - pretendere l’uso di strumenti usa e getta
-  - buone condizioni igieniche dei locali in cui vengono eseguiti
+  - verificare le buone condizioni igieniche dei locali in cui vengono eseguiti
 
 :::
 

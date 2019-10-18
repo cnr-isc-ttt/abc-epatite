@@ -4,7 +4,11 @@ title: Introduzione
 
 ## Il Fegato
 
-Il fegato è la più grande ghiandola del corpo umano e svolge un ruolo fondamentale nella digestione. Oltre a filtrare il sangue, svolge molte funzioni, tra cui la depurazione delle sostanze tossiche e nella difesa dell'organismo. La salute del fegato si ripercuote su tutto l'organismo.
+Il fegato è la più grande ghiandola del corpo umano e svolge molte funzioni: filtra il sangue, produce la bile (essenziale alla digestione), depura dalle sostanze tossiche e contribuisce anche alla difesa dell'organismo.
+
+::: warning
+La salute del fegato si ripercuote su tutto l'organismo.
+:::
 
 ![Fegato](./assets/images/liver-female.jpg)
 
@@ -18,7 +22,7 @@ Le epatiti **non** si trasmettono per via _genetica_ o _ereditaria_.
 
 ### Sintomi
 
-L'epatite può anche essere asintomatica, quindi si può essere inconsapevoli di essere ammalati.
+L'epatite può anche essere asintomatica, quindi si può avere l'epatite senza esserne consapevoli.
 
 Sintomi che possono presentarsi sono:
 

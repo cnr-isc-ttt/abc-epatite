@@ -23,11 +23,12 @@ Le epatiti virali sono una delle più gravi minacce per la salute globale. L’O
 :::
 
 ::: tip Epatite B <Badge text="B-io liquidi" type="tip"/>
-il contagio avviene soprattutto attraverso liquidi Biologici che includono il sangue e i fluidi delle mucose genitali.
+il contagio avviene soprattutto attraverso liquidi Biologici che includono il sangue e i fluidi delle mucose genitali (dunque si trasmette attraverso i rapporti sessuali).
 :::
 
 ::: tip Epatite C <Badge text="C-ontatto sangue" type="tip"/>
-si trasmette quasi esclusivamente attraverso il sangue (sangue con sangue) di una persona infetta.
+si trasmette quasi esclusivamente attraverso il sangue (sangue con sangue) di una persona infetta,dunque principalmente attraverso l’uso in comune di oggetti taglienti.
+
 :::
 
 ::: warning In gravidanza

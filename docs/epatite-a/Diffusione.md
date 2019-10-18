@@ -5,7 +5,7 @@
 
 ## Mondo
 
-L'epatite **A** è presente in tutto il mondo, soprattutto nei Paesi del sud. Ogni anno ci sono circa 1,4 milioni di casi. L’epatite A è particolarmente diffusa nei Paesi che presentano scarse condizioni igienico-sanitarie, dove sono colpiti prevalentemente i bambini (in maniera spesso asintomatica). Nei Paesi in cui la diffusione è intermedia o bassa l'infezione colpisce prevalentemente gli adolescenti e gli adulti.
+L'epatite **A** è presente in tutto il mondo. Ogni anno ci sono circa 1,4 milioni di casi. L’epatite A è particolarmente diffusa nei Paesi che presentano scarse condizioni igienico-sanitarie, dove sono colpiti prevalentemente i bambini (in maniera spesso asintomatica). Nei Paesi in cui la diffusione è intermedia o bassa l'infezione colpisce prevalentemente gli adolescenti e gli adulti.
 
 ## Italia
 

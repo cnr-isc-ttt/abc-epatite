@@ -17,3 +17,4 @@ firebase.json
 .firebase
 .firebase/*
 .firebase/hosting*
+.well-known/assetlinks.json

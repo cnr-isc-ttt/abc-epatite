@@ -2,7 +2,7 @@
 
 ## Prevenzione
 
-### 7 modi per proteggersi dall’epatite A
+### 6 modi per proteggersi dall’epatite A
 
 ::: tip
 
@@ -43,7 +43,7 @@
 In caso di viaggi e/o partecipazione a eventi di massa:
 
 - Prima di partire, informati sulla situazione epidemiologica e igienica del paese che visiterai
-- Prima di partire, controlla il tuo stato vaccinale, assicurati di essere in regola con le vaccinazioni raccomandate in Italia e consulta il tuo medico o i centri vaccinali presenti sul territorio regionale sulla necessità di ulteriori vaccinazioni
+- Prima di partire, controlla il tuo stato vaccinale, assicurati di essere in regola con le vaccinazioni raccomandate in Italia e consulta il tuo medico o i centri vaccinali presenti sul territorio regionale sulla necessità di ulteriori vaccinazioni (puoi individuare il centro più vicino a te telefonando alla tua ASL di appartenenza).
 
 ::: warning In viaggio
 

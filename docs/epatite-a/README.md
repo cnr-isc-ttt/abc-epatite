@@ -6,7 +6,7 @@ title: Epatite A
 
 ## Cosa è <Badge text="Risposta in 100 parole" type="tip"/>
 
-L'epatite **A** è un’infezione del fegato, causata da un virus, che può causare conseguenze da lievi (ad es. nausea e vomito) a gravi (rare). Si distingue dalle epatiti B e C per le modalità di trasmissione, non diventa mai cronica ed è raramente fatale.
+L'epatite **A** è un’infezione del fegato, causata da un virus, che può determinare conseguenze da lievi (nausea, vomito, ittero, ecc.) a gravi. Esiti gravi, come ad esempio l'insufficienza epatica acuta, sono tuttavia rari. Si distingue dalle epatiti B e C per le modalità di trasmissione, non diventa mai cronica ed è raramente fatale.
 
 Può comunque causare sintomi debilitanti. Inoltre, le conseguenze possono essere più gravi per i pazienti con epatite cronica B o C e per coloro che hanno già una malattia del fegato.
 
@@ -24,4 +24,4 @@ per l'epatite **A** esiste un vaccino efficace e ben tollerato
 
 ## Link
 
-[Epicentro cura dell'Istituto superiore di sanità](https://www.epicentro.iss.it/epatite/epatite-a)
+[Epicentro a cura dell'Istituto superiore di sanità](https://www.epicentro.iss.it/epatite/epatite-a)

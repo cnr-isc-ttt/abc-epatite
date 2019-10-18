@@ -5,16 +5,16 @@ title: Contagio
 ## Come la prendo
 
 Il virus dell’epatite C si trasmette da sangue a sangue, cioè quando il
-::: tip sangue fresco
+::: warn sangue fresco
 
 di una persona infetta entra in contatto col sangue di una persona sana tramite una ferita o lesione della cute.
 :::
 
 Il rischio di contagio tramite trasfusioni oggi è quasi azzerato.
 
-La trasmissione da madre a figlio al momento del parto è possibile ma infrequente, meno del 5% di nati da madre con epatite cronica C diventa a sua volta infetto.
+La trasmissione da madre a figlio al momento del parto è possibile ma infrequente; meno del 5% di nati da madre con epatite cronica C diventa a sua volta infetto.
 
-Tuttavia alcuni studi suggeriscono che soggetti di sesso maschile, già infetti con HIV, che fanno sesso con altri maschi possano avere un maggior rischio di contrarre l’epatite C rispetto alla popolazione generale.
+Non ci sono solide conoscenze sulla trasmissione dell’epatite **C** attraverso le pratiche sessuali. Tuttavia alcuni studi suggeriscono che soggetti di sesso maschile, già infetti con HIV, che fanno sesso con altri maschi possano avere un maggior rischio di contrarre l’epatite C rispetto alla popolazione generale.
 
 ::: warning Situazioni più a rischio di contagio
 

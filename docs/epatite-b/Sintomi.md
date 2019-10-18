@@ -6,10 +6,10 @@ title: Sintomi
 
 Il periodo di incubazione del virus dell'epatite **B** è in media 75 giorni, ma può _variare entro ampi limiti_ che vanno dai 30 ai 180 giorni.
 
-I sintomi caratteristici possono essere più o meno gravi e sono direttamente associato all’età di infezione. In particolare la maggior parte delle persone che si infetta durante l’età **infantile non manifesta** alcun sintomo durante la fase acuta dell’infezione.
+I sintomi caratteristici possono essere più o meno gravi e sono direttamente associati all'età in cui avviene l'infezione. In particolare, la maggior parte delle persone che si infetta durante l’età **infantile non manifesta** alcun sintomo durante la fase acuta dell’infezione.
 
-Quando presenti i
-::: warning sintomi
+Quando i sintomi sono presenti, possono durare diverse settimane.
+::: warning Sintomi
 
 - mancanza di appetito
 - dolori addominali
@@ -28,7 +28,7 @@ Dopo l’infezione acuta alcuni soggetti sviluppano un’infezione cronica. In q
 
 La proporzione di cronicizzazione varia con il variare dell’età del soggetto. Infatti chi contrae l’infezione in età infantile ha proporzioni di cronicizzazione fino al 90% mentre chi contrae l’infezione in età adulta ha tassi di cronicizzazione ben inferiori al 90%.
 
-I soggetti che dopo l’infezione producono anticorpi specifici contro l’antigene “S” del virus (anticorpi anti-HBsAg) sono capaci di arrestare completamente la replicazione del virus e non sono più infetti. Tuttavia se questi soggetti perdono la loro immunità a seguito di terapie immunosoppressive come quelle contro il cancro o come quelle contro le malattie auto immuni, il virus dell’epatite B può nuovamente ricomparire e produrre danni gravi.
+I soggetti che dopo l’infezione producono anticorpi specifici sono capaci di arrestare completamente la replicazione del virus e non sono più infetti. Tuttavia se questi soggetti perdono la loro immunità a seguito di terapie immunosoppressive come quelle contro il cancro o come quelle contro le malattie autoimmuni, il virus dell’epatite B può nuovamente ricomparire e produrre danni gravi.
 
 ::: tip Vaccino
 Pertanto l’unica vera garanzia per prevenire tutte le complicanze del virus dell’epatite B è quella di vaccinarsi.
@@ -49,4 +49,4 @@ L’epatite **B** è una malattia complessa e **deve essere trattata da medici s
 ::: tip Trattamento
 Esistono farmaci specifici per il trattamento dell’epatite B.
 :::
-La necessità di iniziare una terapia sia in fase acuta che cronica deve essere deciso da un medico specialista in malattie infettive o in gastroenterologia (epatologo).
+La necessità di iniziare una terapia sia in fase acuta che cronica deve essere stabilita da un medico specialista in malattie infettive o in gastroenterologia (epatologo).

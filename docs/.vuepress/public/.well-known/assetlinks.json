@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "it.cnr.isc.abcepatite",
+               "sha256_cert_fingerprints": ["A1:7A:C2:57:6D:72:C9:93:A2:50:68:BD:71:81:94:9B:9D:13:BE:DA:7A:18:78:84:68:F0:E4:7D:2F:52:E6:91"] }
+}]

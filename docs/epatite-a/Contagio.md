@@ -6,12 +6,13 @@ title: Contagio
 
 ## Come la prendo
 
-L’epatite **A** si trasmette generalmente per via oro-fecale, cioè quando una persona ingerisce acqua o cibo contaminati dalle feci di persone infette.
+L’epatite **A** si trasmette generalmente per via oro-fecale, cioè quando una persona suscettibile (senza sufficienti anticorpi protettivi) ingerisce acqua o cibo (soprattutto crudo o non cotto abbastanza) contaminati dal materiale fecale o dalle mani sporche di persone con infezione in atto.
 
-Il virus si trasmette anche attraverso uno stretto contatto con una persona infetta. La malattia è associata a scarse condizioni igieniche, soprattutto nella preparazione dei cibi. Ecco perché è detta epatite **Alimentare**.
+Il virus si trasmette anche attraverso uno stretto contatto o pratiche sessuali con una persona infetta. La malattia è associata a scarse condizioni igieniche, soprattutto nella preparazione dei cibi. Ecco perché è detta epatite **Alimentare**.
 
 ::: warning
-Il virus può essere presente nelle feci già 2 settimane **prima** che si presentino i **sintomi** dell’infezione.
+Il virus può essere presente nelle feci già 2 settimane **prima** che si presentino i **sintomi** dell’infezione. Periodo durante il quale la persona è infetta ma svolge ancora tutte le comuni attività sociali e di lavoro.
+
 :::
 
 Alcuni persone (soprattutto i bambini) manifestano solo sintomi molto **lievi** (o addirittura **nessun sintomo**) ma sono comunque contagiose perché il virus viene eliminato lentamente.
@@ -23,7 +24,8 @@ prodotti a base di:
 
 - pesce, crostacei, molluschi
 - vegetali, pomodori secchi
-- succhi, frutti di bosco, fragole
+- succhi, fragole, frutti di bosco congelati
+
   :::
 
   ::: warning uso di acqua contaminata
@@ -52,7 +54,7 @@ uso di droghe
 ### Soggetti a maggior rischio
 
 - coloro che sono stati a stretto contatto con persone infette
-- bambini che spesso hanno una forma asintomatica della malattie.
+- bambini che spesso hanno una forma asintomatica della malattia
   ::: tip Forme gravi <Badge text=" basso rischio" type="warn" />
   Raramente i bambini sono affetti da forme gravi
   :::
