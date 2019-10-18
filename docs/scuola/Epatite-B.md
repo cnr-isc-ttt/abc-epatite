@@ -8,7 +8,7 @@ pageClass: custom-page-class-scuola
 
 ## Epatite B
 
-L'Epatite B è causata da il virus _Hepatovirus B_ (**HVB**).
+L'Epatite B è causata dal virus _Hepatovirus B_ (**HVB**).
 
 ::: tip Epatite B <Badge text="B-io liquidi" type="tip"/>
 

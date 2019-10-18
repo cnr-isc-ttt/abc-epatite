@@ -8,7 +8,7 @@ pageClass: custom-page-class-scuola
 
 ## Epatite C
 
-L'Epatite B è causata da il virus _Hepatovirus C_ (**HVC**).
+L'Epatite C è causata dal virus _Hepatovirus C_ (**HVC**).
 
 ::: tip Epatite C <Badge text="C-ontatto sangue" type="tip"/>
 
