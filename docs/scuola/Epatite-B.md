@@ -18,7 +18,7 @@ L'Epatite B è causata dal virus _Hepatovirus B_ (**HVB**).
   :::
   ![Vaccino](../assets/images/vaccino.jpg)
 
-::: warning Per adulti non vaccinati
+::: warning Se per caso non sei vaccinato
 
 - Esiste un vaccino anti-epatite **B**
   ::: tip
