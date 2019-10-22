@@ -6,9 +6,7 @@ next: ./Introduzione
 pageClass: custom-page-class-scuola
 ---
 
-![ABC Epatite](/images/icons/icon-128x128.png)
-
-### ABC Epatite Web App
+## ABC Epatite Web App
 
 **ABC Epatite** Web App è la campagna di sensibilizzazione sulle forme di Epatite virale **A**, **B** e **C** sviluppata dall'Istituto dei Sistemi Complessi del Consiglio Nazionale delle Ricerche (CNR-ISC) nell’ambito del **[progetto ](../About/)** promosso dalla Gilead Sciences Inc.
 
@@ -20,11 +18,7 @@ scopri l'epatite in [5 passi](./Introduzione/)
 
 :::
 
-1. Il Fegato
-2. Le Epatiti Virali
-3. Epatite A
-4. Epatite B
-5. Epatite C
+<SlideShow/>
 
 ### Scuola primaria
 
