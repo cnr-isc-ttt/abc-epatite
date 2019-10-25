@@ -1,5 +1,5 @@
 <template>
-  <carousel>
+  <carousel v-if="isMounted">
     <slide>
       <label>
         1. Il fegato
@@ -34,6 +34,18 @@
     </slide>
   </carousel>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      isMounted: false
+    };
+  },
+  mounted() {
+    this.isMounted = true;
+  }
+};
+</script>
 
 
 

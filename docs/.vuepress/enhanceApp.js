@@ -9,7 +9,7 @@ from 'mdi-vue/ShareVariant';
 import GestureTap from 'mdi-vue/GestureTap';
 import EmailSendOutline from 'mdi-vue/EmailSendOutline';
 import WhatsApp from 'mdi-vue/Whatsapp';
-
+// https://code.luasoftware.com/tutorials/vuepress/import-vuejs-component-into-vuepress/
 export default ({
   Vue, // the version of Vue being used in the VuePress app
   options, // the options for the root Vue instance
